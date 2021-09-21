@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Browns Notice Board
-hero_media: welcome.jpg
+hero_media: welcome.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-This website provides useful information, news, and useful links to Bristol Geography PGRs. 
+This website provides useful information, links and latest news to Bristol Geography PGRs. 
