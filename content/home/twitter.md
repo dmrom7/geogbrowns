@@ -24,10 +24,23 @@ advanced:
   css_class: fullscreen
 ---
 
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2></h2>
+    <p><a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2></h2>
+    <p><a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/bristoldc?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+  </div>
+</div>
+
+<br>
+
 
 <a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br><br>
+<br>
 
 <a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/bristoldc?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
