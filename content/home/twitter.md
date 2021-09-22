@@ -25,9 +25,9 @@ advanced:
 ---
 
 
-<a class="twitter-timeline" data-width="800" data-height="800" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="800" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
-<a class="twitter-timeline" data-width="800" data-height="800" href="https://twitter.com/bristoldc?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="800" href="https://twitter.com/bristoldc?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
