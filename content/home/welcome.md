@@ -23,7 +23,7 @@ cta:
   icon: laptop-house
 cta_alt:
   url: 'https://geogbrowns.info/post/22-09-21-check-in/'
-  label: how to use it ->
+  label: how to use it
 
 ---
 
