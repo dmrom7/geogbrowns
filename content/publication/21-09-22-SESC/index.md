@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*International Journal of Geographical Information Science*"
 publication_short: ""
 
-abstract: Clustering is a central concern in geographic data science and reflects a large, active domain of research. In spatial clustering, it is often challenging to balance two kinds of ‘goodness of fit:’ clusters should have ‘feature’ homogeneity, in that they aim to represent one ‘type’ of observation, and also ‘geographic’ coherence, in that they aim to represent some detected geographical ‘place’. This divides ‘map typologization’ studies, common in geodemographics, from ‘regionalization’ studies, common in spatial optimization and statistics. Recent attempts to simultaneously typologize and regionalize data into clusters with both feature homogeneity and geographic coherence have faced conceptual and computational challenges. Fortunately, new work on spectral clustering can address both regionalization and typologization tasks within the same framework. This research develops a novel kernel combination method for use within spectral clustering that allows analysts to blend smoothly between feature homogeneity and geographic coherence. I explore the formal properties of two kernel combination methods and recommend multiplicative kernel combination with spectral clustering. Altogether, spatially encouraged spectral clustering is shown as a novel kernel combination clustering method that can address both regionalization and typologization tasks in order to reveal the geographies latent in spatially structured data
+abstract: Clustering is a central concern in geographic data science and reflects a large, active domain of research. In spatial clustering, it is often challenging to balance two kinds of ‘goodness of fit:’ clusters should have ‘feature’ homogeneity, in that they aim to represent one ‘type’ of observation, and also ‘geographic’ coherence, in that they aim to represent some detected geographical ‘place’. This divides ‘map typologization’ studies, common in geodemographics, from ‘regionalization’ studies, common in spatial optimization and statistics. Recent attempts to simultaneously typologize and regionalize data into clusters with both feature homogeneity and geographic coherence have faced conceptual and computational challenges. Fortunately, new work on spectral clustering can address both regionalization and typologization tasks within the same framework. This research develops a novel kernel combination method for use within spectral clustering that allows analysts to blend smoothly between feature homogeneity and geographic coherence. I explore the formal properties of two kernel combination methods and recommend multiplicative kernel combination with spectral clustering. Altogether, spatially encouraged spectral clustering is shown as a novel kernel combination clustering method that can address both regionalization and typologization tasks in order to reveal the geographies latent in spatially structured data.
 
 
 tags:
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://osf.io/yzt2p/download
+url_pdf: https://www.tandfonline.com/doi/abs/10.1080/13658816.2021.1934475?journalCode=tgis20
 url_code: ''
 url_dataset: ''
 url_poster: ''
