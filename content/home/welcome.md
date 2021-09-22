@@ -22,7 +22,7 @@ cta:
   icon_pack: fas
   icon: laptop-house
 cta_alt:
-  url: 'https://geogbrowns.info/post/22-09-21-check-in/'
+  url: 'https://geogbrowns.info/post/21-09-21-check-in/'
   label: how to use it
 
 ---
