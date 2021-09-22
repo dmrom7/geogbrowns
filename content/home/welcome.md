@@ -27,6 +27,7 @@ cta:
   label: PGR Handbook
   icon_pack: fas
   icon: book
+---
 
 <br>
 
