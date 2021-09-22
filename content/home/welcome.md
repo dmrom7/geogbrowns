@@ -21,12 +21,10 @@ cta:
   label: Browns Check-in & hot-desking
   icon_pack: fas
   icon: laptop-house
+cta_alt:
+  url: 'https://geogbrowns.info/post/22-09-21-check-in/'
+  label: how to use it ->
 
-cta:
-  url: 'https://uob.sharepoint.com/sites/geographical-sciences/PGR%20Handbooks%20201920/PGR%20handbook%202020-21.pdf?siteid={64BBC426-450E-4E29-BE93-DAF3EE924AAB}&webid={A03340AA-847A-405A-92C1-890046D37100}&uniqueid={2F44AE16-DF65-4510-84BA-933C12B6A070}'
-  label: PGR Handbook
-  icon_pack: fas
-  icon: book
 ---
 
 <br>
