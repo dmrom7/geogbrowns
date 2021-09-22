@@ -28,16 +28,16 @@ advanced:
   <div class="column" style="background-color:#aaa;">
     <h2></h2>
     <p><a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-  </div> 
+  </div>
   <div class="column" style="background-color:#bbb;">
     <h2></h2>
     <p><a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/bristoldc?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   </div>
-  <div class="column" style="background-color:#aaa;">
+  <div class="column" style="background-color:#ccc;">
     <h2></h2>
     <p><a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/JGIBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   </div>
-  <div class="column" style="background-color:#aaa;">
+  <div class="column" style="background-color:#ddd;">
     <h2></h2>
     <p><a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/bridge_geog?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   </div>
