@@ -1,5 +1,5 @@
 ---
-# An instance of the Contact widget.
+# An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: contact
 
@@ -7,26 +7,20 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 68
 
-title: Contact
+title: Meet the PGR Rep Team
 subtitle:
 
 content:
-  # Automatically link email and phone or display as text?
-  autolink: true
-  
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+  - PGR Reps
+  - EDI Reps
+  - Social Reps
 design:
-  columns: '1'
+  show_interests: false
+  show_role: true
+  show_social: true
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
