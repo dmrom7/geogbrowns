@@ -19,7 +19,7 @@ design:
   columns: "2"
   
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["15px", "0", "15px", "0"]
 advanced:
   css_class: fullscreen
 ---
