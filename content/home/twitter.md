@@ -25,20 +25,24 @@ advanced:
 ---
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="column" style="background-color:;">
     <h2></h2>
-    <p><a class="twitter-timeline" data-width="200" data-height="800" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+    <p><a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+
+  <div class="column" style="background-color:;">
     <h2></h2>
-    <p><a class="twitter-timeline" data-width="200" data-height="800" href="https://twitter.com/bristoldc?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+    <p><a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/bristoldc?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   </div>
-  <div class="column" style="background-color:#ccc;">
+
+  <div class="column" style="background-color:;">
     <h2></h2>
-    <p><a class="twitter-timeline" data-width="200" data-height="800" href="https://twitter.com/JGIBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+    <p><a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/JGIBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   </div>
-  <div class="column" style="background-color:#ddd;">
+
+  <div class="column" style="background-color:;">
     <h2></h2>
-    <p><a class="twitter-timeline" data-width="200" data-height="800" href="https://twitter.com/bridge_geog?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+    <p><a class="twitter-timeline" data-width="220" data-height="800" href="https://twitter.com/bridge_geog?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   </div>
+
 </div>
