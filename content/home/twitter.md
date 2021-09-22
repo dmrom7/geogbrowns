@@ -16,7 +16,7 @@ title:
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   
   spacing:
     padding: ["20px", "0", "20px", "0"]
@@ -25,5 +25,9 @@ advanced:
 ---
 
 
-<a class="twitter-timeline" data-width="1000" data-height="600" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="800" data-height="800" href="https://twitter.com/GeogBristol?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+
+<a class="twitter-timeline" data-width="800" data-height="800" href="https://twitter.com/bristoldc?ref_src=twsrc%5Etfw">Tweets by GeogBristol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
