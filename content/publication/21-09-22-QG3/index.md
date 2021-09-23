@@ -1,14 +1,14 @@
 ---
 title: "Quantitative geography III: Future challenges and challenging futures"
 authors:
-- "**Levi John Wolf**"
-- "**Sean Fox**"
-- "**Rich Harris**"
-- "**Ron Johnston**"
-- "**Kelvyn Jones**"
-- "**David Manley**"
-- "**Emmanouil Tranos**"
-- "**Wenfei Winnie Wang**"
+- "*Levi John Wolf*"
+- "*Sean Fox*"
+- "*Rich Harris*"
+- "*Ron Johnston*"
+- "*Kelvyn Jones*"
+- "*David Manley*"
+- "*Emmanouil Tranos*"
+- "*Wenfei Winnie Wang*"
 
 doi: ""
 
