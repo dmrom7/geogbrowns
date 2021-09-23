@@ -6,7 +6,7 @@ title: Isolde Glissenaar
 superuser: true
 
 # Role/position
-role: PhD student in AQM
+role: Physical Geography PhD student
 
 # Organizations/Affiliations
 organizations:
