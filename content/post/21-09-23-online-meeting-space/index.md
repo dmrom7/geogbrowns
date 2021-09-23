@@ -5,7 +5,7 @@ authors:
 - isolde
 ---
 
-We are now allowed to return to the office in normal occupancy. This means that Browns will get busier again. Many of us will still have a lot of online meetings going on. We do ask you to not have online meetings in which you have to contribute at your desk in Browns, as that will disturb other people working there. The School will soon place a new desk in the little room in Browns (through the hallway to the toilets. This is of course not optimal (as people will walk through that room on their way to the toilets), but it is the only option we have in Browns for now. The School is working on a more permanent solution in Browns, but that will take longer to realise.
+We are now allowed to return to the office in normal occupancy. This means that Browns will get busier again. Many of us will still have a lot of online meetings going on. We do ask you to not have online meetings in which you have to contribute at your desk in Browns, as that will disturb other people working there. The School will soon place a new desk in the little room in Browns. This is of course not optimal (as people will walk through that room on their way to the toilets), but it is the only option we have in Browns for now. The School is working on a more permanent solution in Browns, but that will take longer to realise.
 
 In the mean time: there are other spaces within the School and University PGRs can use to hold on-line or group meetings. Below are notes and links to a few:
  
