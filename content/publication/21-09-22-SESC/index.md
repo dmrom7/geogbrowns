@@ -1,7 +1,7 @@
 ---
 title: "Spatially–encouraged spectral clustering: a technique for blending map typologies and regionalization"
 authors:
-- '**Levi John Wolf**'
+- 'Levi John Wolf*'
 
 
 doi: ""
@@ -57,3 +57,4 @@ projects: []
 slides:
 ---
 
+'*' University of Bristol, School of Geographicl Sciences

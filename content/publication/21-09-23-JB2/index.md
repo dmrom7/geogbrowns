@@ -1,7 +1,7 @@
 ---
 title: "Draft genome sequences of three filamentous cyanobacteria isolated from brackish habitats"
 authors:
-- '**Joanne S. Boden**'
+- 'Joanne S. Boden*'
 - Michele Grego
 - Henk Bolhuis
 - Patricia Sánchez-Baracaldo
@@ -56,3 +56,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+
+'*' University of Bristol, School of Geographicl Sciences

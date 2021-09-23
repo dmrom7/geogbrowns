@@ -1,7 +1,7 @@
 ---
 title: "Timing the evolution of antioxidant enzymes in cyanobacteria"
 authors:
-- '**Joanne S. Boden**'
+- 'Joanne S. Boden*'
 - Kurt O. Konhauser
 - Leslie J. Robbins
 - Patricia Sánchez-Baracaldo 
@@ -58,3 +58,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+
+
+'*' University of Bristol, School of Geographicl Sciences

@@ -63,4 +63,4 @@ projects: []
 slides:
 ---
 
-'*' University of Bristol
+'*' University of Bristol, School of Geographicl Sciences

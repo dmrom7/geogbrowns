@@ -2,7 +2,7 @@
 title: "The role of space, time and sociability in predicting social encounters"
 authors:
 - Christoph Stich
-- '**Emmanouil Tranos**'
+- 'Emmanouil Tranos*'
 - Mirco Musolesi
 - Sune Lehmann
 
@@ -59,3 +59,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+
+
+'*' University of Bristol, School of Geographicl Sciences
