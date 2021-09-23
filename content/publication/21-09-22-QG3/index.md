@@ -1,19 +1,19 @@
 ---
 title: "Quantitative geography III: Future challenges and challenging futures"
 authors:
-- Levi John Wolf
-- Sean Fox
-- Rich Harris
-- Ron Johnston
-- Kelvyn Jones
-- David Manley
-- Emmanouil Tranos
-- Wenfei Winnie Wang
+- '**Levi John Wolf**'
+- '**Sean Fox**'
+- '**Rich Harris**'
+- '**Ron Johnston**'
+- '**Kelvyn Jones**'
+- '**David Manley**'
+- '**Emmanouil Tranos**'
+- '**Wenfei Winnie Wang**'
 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-01T00:00:00Z"
+publishDate: "2020-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ abstract: In the previous two reports in this series, we discussed the history a
 
 
 tags:
-- Source Themes
+
 featured: false
 
 # links:
@@ -62,9 +62,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

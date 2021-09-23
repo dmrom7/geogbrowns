@@ -1,13 +1,13 @@
 ---
 title: "Spatially–encouraged spectral clustering: a technique for blending map typologies and regionalization"
 authors:
-- Levi John Wolf
+- '**Levi John Wolf**'
 
 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2021-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ abstract: Clustering is a central concern in geographic data science and reflect
 
 
 tags:
-- Source Themes
+
 featured: false
 
 # links:
@@ -57,8 +57,3 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
