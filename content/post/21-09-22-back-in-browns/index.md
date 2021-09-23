@@ -20,6 +20,6 @@ If your LFT test is positive or you have symptoms, please book a [PCR test](http
 
 In case you forget to do LF test at home or you start to have symptomps during a day, we left an **emergency single LF tests** at the entrance to browns.
 
-![](./21-09-22-back-in-browns/elft.png)
+![](./21-09-22-back-in-browns/elft.jpg)
 
 Keep safe!
