@@ -1,7 +1,8 @@
 ---
 title: How to use Browns check-in & hot-desking system
 date: 2021-09-22
-author: lenka
+authors:
+- lenka
 ---
 
 Social distancing in Browns; how many people is in?

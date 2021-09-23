@@ -3,7 +3,8 @@ title: Back to Browns in September. Safely!
 date: 2020-12-02
 image:
   focal_point: "top"
-author: lenka
+authors:
+- lenka
 ---
 
 *What are the current rules? What do I need to do the come to Browns again?*
