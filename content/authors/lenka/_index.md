@@ -6,7 +6,7 @@ title: Lenka Hasova
 superuser: true
 
 # Role/position
-role: PhD student in AQM
+role: Human Geography PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My dissertation looks at the use of Spatial Interaction Models and their Spatial Structure. I love coding in Python and R.
+bio: My dissertation looks at the use of Spatial Interaction Models and their Spatial Structure. I love coding in Python and R, and in a spare time, I make my own clothes.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

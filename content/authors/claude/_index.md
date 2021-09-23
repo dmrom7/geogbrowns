@@ -6,7 +6,7 @@ title: Claude De Rijke-Thomas
 superuser: true
 
 # Role/position
-role: PhD student in AQM
+role: Physical Geography PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My dissertation looks at the use of Spatial Interaction Models and their Spatial Structure. I love coding in Python and R.
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,13 +23,13 @@ bio: My dissertation looks at the use of Spatial Interaction Models and their Sp
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'lenka.hasova@bristol.ac.uk'
+  link: 'claude.derijke-thomas@bristol.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/lenkahas
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/lenkahas
+  link: https://github.com/ClaudeDRT
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

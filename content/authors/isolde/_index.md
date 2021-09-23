@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My dissertation looks at the use of Spatial Interaction Models and their Spatial Structure. I love coding in Python and R.
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,10 +23,10 @@ bio: My dissertation looks at the use of Spatial Interaction Models and their Sp
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'lenka.hasova@bristol.ac.uk'
+  link: 'isolde.glissenaar@bristol.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/lenkahas
+  link: https://twitter.com/IsoldeGlissenaar
 - icon: github
   icon_pack: fab
   link: https://github.com/lenkahas
