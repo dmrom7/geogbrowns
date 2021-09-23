@@ -1,7 +1,7 @@
 ---
-title: SWDTP 10th ANniversary Conference
+title: SWDTP 10th Anniversary Conference
 
-event: SWDTP 10th ANniversary Conference
+event: SWDTP 10th Anniversary Conference
 event_url: https://example.org
 
 location: We the curious
