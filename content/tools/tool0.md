@@ -24,6 +24,13 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: PGR Documents
+      tag: 'PGR Documents'
+    - name: Research Groups
+      tag: 'Research Groups'
+    - name: Browns Documents
+      tag: 'Browns Documents'
+
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
