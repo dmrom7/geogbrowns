@@ -6,7 +6,7 @@ tags:
 date: 
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://uob.sharepoint.com/teams/grp-ggy-postgrad/Shared%20Documents/Forms/AllItems.aspx?viewid=23b21ecf%2D2c8f%2D446b%2D9b7b%2De9cd79bdeeae&id=%2Fteams%2Fgrp%2Dggy%2Dpostgrad%2FShared%20Documents%2FTraining"
+external_link: ""
 
 image:
   caption: 
@@ -26,3 +26,11 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
+
+## Training resources for PGR's 
+
+1. [School specific, PGR training materials](https://uob.sharepoint.com/teams/grp-ggy-postgrad/Shared%20Documents/Forms/AllItems.aspx?viewid=23b21ecf%2D2c8f%2D446b%2D9b7b%2De9cd79bdeeae&id=%2Fteams%2Fgrp%2Dggy%2Dpostgrad%2FShared%20Documents%2FTraining) - contains material related to plagiarism, paper submissions, etc.
+
+2. [Advanced Computing Research Centre (ACRC) training](https://www.bristol.ac.uk/acrc/acrc-training/) - contains R,Python, GIT or Linux courses
+
+3. [ESRC reserach skills and resources](https://esrc.ukri.org/skills-and-careers/doctoral-training/esrc-students/research-skills-and-resources/) - contains documents about application writing, thesis writing, etc.
