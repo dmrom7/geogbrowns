@@ -30,4 +30,3 @@ url_video: ""
 slides: 
 ---
 
-[how to use it ->](https://geogbrowns.info/post/21-09-21-check-in/)

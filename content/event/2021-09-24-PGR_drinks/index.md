@@ -12,7 +12,7 @@ address:
   postcode: 'BS1 5RR'
   country: United Kingdom
 
-summary: Drinks provided evening social!
+summary: Evening social! Drinks provided <3
 abstract: "You are cordially invited to drinking in the park near Cabot Tower at 5:15pm on Friday the 1st of October. Please bring yourselves and maybe picnic blankets for your own comfort. Drinks will be provided and special requests will be considered:))"
 
 # Talk start and end times.
