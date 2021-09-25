@@ -5,6 +5,8 @@ tags:
 - Research Groups
 date: 
 
+authors:
+  - lenka
 # Optional external URL for project (replaces project detail page).
 external_link: "http://www.bristol.ac.uk/geography/research/"
 

@@ -4,6 +4,8 @@ summary:
 tags:
 - Research Groups
 date: 
+authors:
+  - lenka
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/geogbristol/QUSS"
