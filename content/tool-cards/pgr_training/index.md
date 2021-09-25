@@ -5,6 +5,9 @@ tags:
 - PGR Documents
 date: 
 
+authors: 
+  - lenka
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -26,6 +29,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
+
+
+
+<!--more-->
 
 ## Training resources for PGR's 
 
