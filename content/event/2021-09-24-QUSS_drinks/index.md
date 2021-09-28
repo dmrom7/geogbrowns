@@ -13,7 +13,7 @@ address:
   country: United Kingdom
 
 summary: QUSS afternoon social
-abstract: "To welcome everybody in new academic year, we would like to meet up and casualy leave to nearest open air pub on thursday afternoon. 
+abstract: "To welcome everybody in new academic year, we would like to meet up and casually leave to nearest open air pub on Thursday afternoon. 
 Location yet to be decided "
 
 # Talk start and end times.

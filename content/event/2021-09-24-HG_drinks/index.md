@@ -13,7 +13,7 @@ address:
   country: United Kingdom
 
 summary: Afternoon social for all new Human Geographers 
-abstract: "To welcome all new Human Geography PGRs, we would like to meet up and casualy leave to nearest open air pub on thursday afternoon. 
+abstract: "To welcome all new Human Geography PGRs, we would like to meet up and casually leave to nearest open air pub on Thursday afternoon. 
 Location yet to be decided "
 
 # Talk start and end times.
