@@ -12,14 +12,14 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: Afternoon social for all new Human Geographers & QUSS catch up
-abstract: "To welcome all new Human Geography PGRs, we would like to casualy leave to nearest open air pub on thursday afternoon. As it happened to be on the same day as the first QUSS seminar, it will be a cojoint event with the first QUSS social of the year.
+summary: Afternoon social for all new Human Geographers 
+abstract: "To welcome all new Human Geography PGRs, we would like to meet up and casualy leave to nearest open air pub on thursday afternoon. 
 Location yet to be decided "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-30T17:00:00Z"
-date_end: "2021-09-30T19:00:00Z"
+date: "2021-10-07T17:00:00Z"
+date_end: "2021-10-07T19:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
