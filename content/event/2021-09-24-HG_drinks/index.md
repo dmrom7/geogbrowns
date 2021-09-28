@@ -1,7 +1,7 @@
 ---
-title: Human Geography & QUSS drinks
+title: Human Geography 
 
-event: Human Geography & QUSS drinks
+event: Human Geography
 event_url: 
 
 location: TBD
