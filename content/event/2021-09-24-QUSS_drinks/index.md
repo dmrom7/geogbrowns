@@ -4,7 +4,7 @@ title:  QUSS drinks
 event: QUSS drinks
 event_url: 
 
-location: TBD
+location: Left Handed Giant pub by the Castle Park
 address:
   street: 
   city: Bristol
