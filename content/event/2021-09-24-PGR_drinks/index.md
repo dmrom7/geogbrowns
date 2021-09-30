@@ -1,19 +1,19 @@
 ---
-title: PGR Social - Drinks in the Park
+title: PGR Social - Drinks in new student bar
 
-event: PGR Social - Drinks in the Park
+event: PGR Social - Drinks in new student bar
 event_url: 
 
-location: Brandon Hill
-address:
+location: The Beckfords
+address: 
   street: 
-  city: Bristol
+  city: Senate House, 24 Tyndall Ave
   region: 
-  postcode: 'BS1 5RR'
+  postcode: 'BS8 1TQ'
   country: United Kingdom
 
-summary: Evening social! Drinks provided <3
-abstract: "You are cordially invited to drinking in the park near Cabot Tower at 5:15pm on Friday the 1st of October. Please bring yourselves and maybe picnic blankets for your own comfort. Drinks will be provided and special requests will be considered:))"
+summary: Evening social! 
+abstract: "You are cordially invited to drinking in the Beckford bar in Senate house at 5:15pm on Friday the 1st of October. We decided to change the location due to weather predictions. Beckfords is a new student bar in senate house, that opened just a week ago! During 'Friday wine club' you can enjoy 25% of all the wines. For this event we wont be able to provide drinks due to last minute changes. Everybody is welcomed to join!"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-09-01T00:00:00Z"
 
-authors: [lenka]
+authors: 
+  - lenka
 tags: []
 
 # Is this a featured talk? (true/false)
