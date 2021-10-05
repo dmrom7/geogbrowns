@@ -1,6 +1,6 @@
 ---
 title: Platforms for PGRs
-summary: 
+summary: pages you need for your daily tasks
 tags:
 - PGR Documents
 date: 
