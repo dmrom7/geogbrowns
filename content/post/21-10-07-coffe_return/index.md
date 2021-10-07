@@ -5,7 +5,7 @@ authors:
 - lenka
 ---
 
-**Coffe and Cake time resumed from dead!**
+**Coffee and Cake time resumed from dead!**
 
 > Every Tuesday from 11:00 to 12:00
 
