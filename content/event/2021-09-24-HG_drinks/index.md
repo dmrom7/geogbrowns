@@ -1,24 +1,24 @@
 ---
-title: Human Geography 
+title: Human Geography Drinks
 
-event: Human Geography
+event: Human Geography Drinks
 event_url: 
 
-location: TBD
+location: Highbury Vaults 
 address:
-  street: 
+  street: 164 St Michael's Hill
   city: Bristol
   region: 
-  postcode: 
+  postcode: BS2 8DE
   country: United Kingdom
 
 summary: Afternoon social for all new Human Geographers 
 abstract: "To welcome all new Human Geography PGRs, we would like to meet up and casually leave to nearest open air pub on Thursday afternoon. 
-Location yet to be decided "
+Meet you in Highbury Vaults  "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-07T17:00:00Z"
+date: "2021-10-07T17:10:00Z"
 date_end: "2021-10-07T19:00:00Z"
 all_day: false
 
