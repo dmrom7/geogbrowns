@@ -14,7 +14,7 @@ There will be some free biscuits and hopefully some home made cake from one of u
 
 
 
-If you want to sign up for a **cake duty**, please use [this spreadsheet](https://uob.sharepoint.com/:x:/r/teams/grp-ggy-postgrad/Shared%20Documents/Browns%20Cake%20Rota.xlsx?d=w4538461a6e3c4ec380510bfe09120c54&csf=1&web=1&e=r8z6PW)
+If you want to sign up for a **cake duty**, please use [this spreadsheet](https://uob.sharepoint.com/:x:/r/teams/grp-ggy-postgrad/Shared%20Documents/Browns%20Cake%20Rota.xlsx?d=w4538461a6e3c4ec380510bfe09120c54&csf=1&web=1&e=xC2hLV)
 
 
 
