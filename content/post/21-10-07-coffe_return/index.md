@@ -10,7 +10,7 @@ authors:
 > Every Tuesday from 11:00 to 12:00
 
 *Coffee & Cake Tuesdays* is a weekly social hour for all the researchers in Browns (or outside the Browns). 
-There will be some free buiscits and hopefully some home made cake from one of us.
+There will be some free biscuits and hopefully some home made cake from one of us.
 
 
 
