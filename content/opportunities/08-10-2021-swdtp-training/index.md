@@ -1,5 +1,6 @@
 ---
-title: : Immersive Technologies in Social Science Research Workshop – 17 November 2021- Registration open!
+title: Immersive Technologies in Social Science Research Workshop – 17 November 2021- Registration open!
+
 date: 2021-11-17
 image:
   focal_point: "top"
@@ -7,7 +8,7 @@ authors:
 - lenka
 ---
 
-**We are delighted to announce an exciting SWDTP-funded workshop on ‘Exploring Immersive Technologies in Social Science Research’; this takes place in Bristol on 17 November 2021, 10am-4pm.**
+**We are delighted to announce an exciting SWDTP-funded workshop on ‘Exploring Immersive Technologies in Social Science Research’, this takes place in Bristol on 17 November 2021, 10am-4pm.**
 
 <!--more-->
 
