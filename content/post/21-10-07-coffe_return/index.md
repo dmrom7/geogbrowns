@@ -3,7 +3,9 @@ title: Coffee & Cake Tuesdays are back!
 date: 2021-10-07
 authors:
 - lenka
-external_link: "https://uob.sharepoint.com/:x:/r/teams/grp-ggy-postgrad/_layouts/15/Doc.aspx?sourcedoc=%7B4538461A-6E3C-4EC3-8051-0BFE09120C54%7D&file=Browns%20Cake%20Rota.xlsx&action=default&mobileredirect=true"
+links:
+	name: Cake Rota
+	url: "https://uob.sharepoint.com/:x:/r/teams/grp-ggy-postgrad/_layouts/15/Doc.aspx?sourcedoc=%7B4538461A-6E3C-4EC3-8051-0BFE09120C54%7D&file=Browns%20Cake%20Rota.xlsx&action=default&mobileredirect=true"
 ---
 
 **Coffee and Cake time resumed from dead!**
