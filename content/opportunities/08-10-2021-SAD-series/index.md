@@ -1,5 +1,5 @@
 ---
-title: : Spatial Analytics and Data Seminar Series, Recordings nd future seminars
+title: Spatial Analytics and Data Seminar Series, Recordings nd future seminars
 date: 2021-10-08
 image:
   focal_point: "top"
