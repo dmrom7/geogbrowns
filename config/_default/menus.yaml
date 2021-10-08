@@ -16,6 +16,9 @@ main:
   - name: Recent Publications
     url: publication
     weight: 50
+  - name: Opportunities
+    url: "opportunities/"
+    weight: 55    
   - name: People
     url: people
     weight: 60
