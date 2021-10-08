@@ -4,7 +4,7 @@ date: 2021-10-07
 authors:
 - lenka
 links:
-	name: 'Cake Rota'
+-	name: Cake Rota
 	url: "https://uob.sharepoint.com/:x:/r/teams/grp-ggy-postgrad/_layouts/15/Doc.aspx?sourcedoc=%7B4538461A-6E3C-4EC3-8051-0BFE09120C54%7D&file=Browns%20Cake%20Rota.xlsx&action=default&mobileredirect=true"
 ---
 
@@ -17,7 +17,9 @@ There will be some free biscuits and hopefully some home made cake from one of u
 
 
 
-If you want to sign up for a **cake duty**, please use [this spreadsheet]("https://uob.sharepoint.com/:x:/r/teams/grp-ggy-postgrad/_layouts/15/Doc.aspx?sourcedoc=%7B4538461A-6E3C-4EC3-8051-0BFE09120C54%7D&file=Browns%20Cake%20Rota.xlsx&action=default&mobileredirect=true")
+If you want to sign up for a **cake duty**, please use this spreadsheet:
+
+
 
 
 

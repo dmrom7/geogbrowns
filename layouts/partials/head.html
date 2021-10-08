@@ -1,0 +1,5 @@
+<head>
+  {{if or (.HasShortcode "github_follow_button") (.HasShortcode "github_star_button")}}
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  {{ end }}
+</head>
