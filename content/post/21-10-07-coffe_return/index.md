@@ -19,7 +19,7 @@ There will be some free biscuits and hopefully some home made cake from one of u
 
 
 
-If you want to sign up for a **cake duty**, please use this spreadsheet:
+If you want to sign up for a **cake duty**, please use Spreadsheet linked in the header of this post.
 
 
 
