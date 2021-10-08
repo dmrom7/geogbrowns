@@ -1,5 +1,5 @@
 ---
-title: : Welsh Government PhD student placement opportunities September 2021
+title: Welsh Government PhD student placement opportunities September 2021
 date: 2021-10-08
 image:
   focal_point: "top"
