@@ -1,6 +1,6 @@
 ---
 title: PGR Training Resources
-summary: Links to sevral trainning resources
+summary: Links to several trainning resources
 tags:
 - PGR Documents
 date: 

@@ -18,5 +18,5 @@ home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
 [dark]
-  link = "#FFC73B"
-  link_hover = "#7489FE"
+  link = "#7489FE"
+  link_hover = "#FFC73B"
