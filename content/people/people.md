@@ -17,9 +17,10 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - PGR Reps
-  - EDI Reps
-  - Social Reps
   - PGR Masters Rep
+  - Equality, Diversity and Inclusion Rep
+  - Social Reps
+ 
 design:
   show_interests: false
   show_role: true
