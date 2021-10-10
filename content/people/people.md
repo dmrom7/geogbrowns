@@ -19,6 +19,7 @@ content:
   - PGR Reps
   - EDI Reps
   - Social Reps
+  - PGR Masters Rep
 design:
   show_interests: false
   show_role: true
