@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am trying to measure snowdepths on Arctic sea ice, using aircraft and satellite radar data, with Dr Jack Landy. I enjoy climbing, foraging and playing the piano.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
