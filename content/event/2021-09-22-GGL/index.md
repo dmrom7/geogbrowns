@@ -12,14 +12,10 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: Deadline for submissions is 1st October 2021. Submissions to be send to swdtp.conference2021@gmail.com
+summary: Join us for the first in a series of special Green Guest Lectures from the School of Geographical Sciences at the University of Bristol. Eminent Professor of Natural Resource Management, Thomas Elmqvist, will be giving this talk as part of Bristol Festival of the Future City. There will be opportunity to ask questions at the end, chaired by Associate Professor Sean Fox, from the School of Geographical Sciences and Cabot Institute for the Environment.
 abstract: "
 [Get your free ticket](https://www.eventbrite.co.uk/e/green-guest-lecture-series-sustainability-for-the-21st-century-tickets-174245251237)
  
- 
-Join us for the first in a series of special Green Guest Lectures from the School of Geographical Sciences at the University of Bristol. Eminent Professor of Natural Resource Management, Thomas Elmqvist, will be giving this talk as part of Bristol Festival of the Future City. There will be opportunity to ask questions at the end, chaired by Associate Professor Sean Fox, from the School of Geographical Sciences and Cabot Institute for the Environment.
- 
-
 **About the lecture**
 The concentration of people in urban settlements is increasing and sustainability has never been a more pressing matter than it is today. With land use changing and natural hazards increasing at greater rates than ever, pressures on natural resources and ecosystems present dynamic challenges that threaten the very reality of a sustainable existence.
  
