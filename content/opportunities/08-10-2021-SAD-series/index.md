@@ -20,7 +20,7 @@ From segregation and social networks to machine learning and movement, the Spati
 
 The seminars feature speakers from a wide variety of academic backgrounds & career stages, and are held nearly every week on Tuesday, 1500 UTC throughout the 2020-2021 academic year.
 
-For more information or registration, please contact the series organizers levi.john.wolf@bristol.ac.uk or Rachel.Franklin@newcastle.ac.uk 
+For more information or registration, please contact the series organizers levi.john.wolf@bristol.ac.uk or Rachel.Franklin@newcastle.ac.uk, and look for [#SAD2021 on twitter](https://twitter.com/hashtag/SAD2021?src=hashtag_click).
 
 
 Watch recordings of past seminars on [Youtube](https://www.youtube.com/channel/UCcf3cdwC1c-1w4Oq0J9yNIg)
