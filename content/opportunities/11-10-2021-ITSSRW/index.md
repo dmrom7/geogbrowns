@@ -1,5 +1,5 @@
 ---
-title: : Immersive Technologies in Social Science Research Workshop – 17 November 2021- Registration open!
+title: Immersive Technologies in Social Science Research Workshop – 17 November 2021- Registration open!
 date: 2021-10-11
 image:
   focal_point: "top"
@@ -21,5 +21,3 @@ As the workshop is highly interactive, we are limiting numbers to 30 in total. P
 The registration link is [Exploring Immersive Technologies in Social Science Research Workshop (office.com)](https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG8u55zEbkqpIh6XvAEGFobNURFE0NE9MTEhFV1EzQ1I3VVNDWEZFNDJTMy4u&wdLOR=cD3688083-AF6F-48E1-987D-A0B6BFC9B034)
 The full agenda is available on our upcoming training page [Training and Development | Webinars and Workshops | SWDTP](https://www.swdtp.ac.uk/training-and-development/)
 
-Best wishes
-The SWDTP team
