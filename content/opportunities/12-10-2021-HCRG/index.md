@@ -7,11 +7,10 @@ authors:
 - lenka
 ---
 
-**he Group has a wide-ranging historical focus from the ancient and medieval periods up to the late twentieth century. Geographically, its interests are centred on Britain and Ireland, Europe, and the Eastern Mediterranean. However, concerns with diaspora, travel and exploration mean that studies include considerations of places much further afield, such as the Americas, Australia and Antarctica.**
+**The Group has a wide-ranging historical focus from the ancient and medieval periods up to the late twentieth century. Geographically, its interests are centred on Britain and Ireland, Europe, and the Eastern Mediterranean. However, concerns with diaspora, travel and exploration mean that studies include considerations of places much further afield, such as the Americas, Australia and Antarctica.**
 
 <!--more-->
 
-* Antarctic Mosaic: An Environmental History of the McMurdo Dry Valley
 * Time: 19th October, 13:00-14:00
 * Place: Seminar Room 1
 
