@@ -1,6 +1,6 @@
 ---
 title: Historical and Cultural Research Group meet-ups, 2021/22
-date: 2021-10-08
+date: 2021-10-12
 image:
   focal_point: "top"
 authors:
