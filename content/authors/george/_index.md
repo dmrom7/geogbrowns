@@ -46,3 +46,4 @@ user_groups:
 - PGR Reps
 ---
 
+ I am interested in human-environment relationships and will be working on the political ecology of conservation in Senegal. 

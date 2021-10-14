@@ -46,3 +46,4 @@ user_groups:
 - Equality, Diversity and Inclusion Rep
 ---
 
+I am Postgrad EDI rep and in my research I explore long-term impact of urban renewal policies on neighbourhood reputations using qualitative methods. I come from Italy and I love doing yoga, listening to podcasts and just spending time into nature. 

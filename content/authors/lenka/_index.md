@@ -48,3 +48,4 @@ user_groups:
 - PGR Reps
 ---
 
+My dissertation looks at the use of Spatial Interaction Models and their Spatial Structure. I love coding in Python and R, and in a spare time, I make my own clothes.

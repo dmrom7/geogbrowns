@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zoonii is passionate about sports, art, and science. She’s excited to reignite the research culture of Bristol Geography, whilst ensuring no one is left out or left behind. Don’t hesitate to get in touch with any EDI questions or ideas
+bio: Zoonii is passionate about sports, art, and science. She’s excited to reignite the research culture of Bristol Geography, whilst ensuring no one is left out or left behind. Don’t hesitate to get in touch with any EDI questions or ideas.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,3 +44,4 @@ user_groups:
 - Equality, Diversity and Inclusion Rep
 ---
 
+Zoonii is passionate about sports, art, and science. She’s excited to reignite the research culture of Bristol Geography, whilst ensuring no one is left out or left behind. Don’t hesitate to get in touch with any EDI questions or ideas.

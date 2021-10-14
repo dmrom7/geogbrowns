@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio:  I'm a PhD student focusing on intersectionality, gender, and migration studies, based at the University of Bristol, UK.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -26,7 +26,7 @@ social:
   link: 'iqiao.qi@bristol.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/JoeyYQi1
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -46,3 +46,4 @@ user_groups:
 - Equality, Diversity and Inclusion Rep
 ---
 
+I'm a PhD student focusing on intersectionality, gender, and migration studies, based at the University of Bristol, UK.
