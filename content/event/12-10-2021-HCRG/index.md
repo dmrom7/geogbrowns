@@ -5,6 +5,8 @@ date: "2021-10-19T13:00:00Z"
 date_end: "2021-10-19T14:00:00Z"
 all_day: false
 
+publishDate: "2021-09-01T00:00:00Z"
+
 location: Seminar Room 1
 
 image:

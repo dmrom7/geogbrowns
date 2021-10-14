@@ -9,6 +9,8 @@ date: "2021-10-20T10:00:00Z"
 date_end: "2021-10-20T11:00:00Z"
 all_day: false
 
+publishDate: "2021-09-01T00:00:00Z"
+
 location: Seminar room 2
 
 abstract: "**Discussion of “New Class Realities” from The Asset Economy (2020) by Lisa Adkins, 
