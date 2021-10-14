@@ -1,15 +1,18 @@
 ---
 title: SoGS Decolonial Reading Group 2021/22
-date: 2021-10-08
 image:
   focal_point: "top"
-authors:
-- lenka
+
+location: Seminar Room 2
+date: "2021-10-21T11:30:00Z"
+date_end: "2021-10-21T12:30:00Z"
+all_day: false
+
+authors: [lenka]
+
+
+abstract: "**TSoGS Decolonial Reading Group is a casual meeting where we discuss interesting topic and try to push the boundary of our knowldege. We will meet every couple of weeks. Please get in touch with [Mark Jackson](https://www.bristol.ac.uk/people/person/Mark-Jackson-131703b9-d504-43f9-9c11-1c8052ca6088/) to get more information**"
 ---
-
-**TSoGS Decolonial Reading Group is a casual meeting where we discuss interesting topic and try to push the boundary of our knowldege. We will meet every couple of weeks. Please get in touch with [Mark Jackson](https://www.bristol.ac.uk/people/person/Mark-Jackson-131703b9-d504-43f9-9c11-1c8052ca6088/) to get more information**
-
-<!--more-->
 
 > Next meeting: Thursday 21 October 11:30-12:30 (Location: TBC). 
 
