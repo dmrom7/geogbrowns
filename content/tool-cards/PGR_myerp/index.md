@@ -1,6 +1,7 @@
 ---
 title: MyERP
-summary: University's integrated Finance, HR, Payroll and Procurement system
+summary: MyERP is the University's integrated Finance, HR, Payroll and Procurement system
+tags:
 - PGR Documents
 date: 
 
