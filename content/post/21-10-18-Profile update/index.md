@@ -12,6 +12,9 @@ links:
    url: https://research-information.bris.ac.uk/en/organisations/school-of-geographical-sciences
 ---
 
+Do you want to see what other people can find out about your reserach? Do you want to make sure this information is up-to-date? Look no further!
+
+<!--more-->
 ## Bristol Pure Research profiles
 
 1. Navigate to https://research-information.bris.ac.uk/en/organisations/school-of-geographical-sciencesand serach for your profile in the profile section (one of the tabs, between network and reserach outputs).
