@@ -1,5 +1,5 @@
 ---
-title: Geographic Society Christmas dinner, gab your tickets by tomorrow at 2pm!
+title: Geographic Society Christmas dinner, grab your tickets by tomorrow at 2pm!
 
 event: Geographic Society Christmas dinner!
 event_url: https://www.bristolsu.org.uk/groups/geography-society-geogsoc/events/postgraduate-christmas-dinner/buy_ticket?fbclid=IwAR3Mmt5OduE7WKQWlAWLT_FdZrYUHuxcUjNCglqMTC7fa6pq2GgOvHiC9tY
