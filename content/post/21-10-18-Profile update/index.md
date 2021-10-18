@@ -3,7 +3,7 @@ title: How to update your university profile? Easy!
 date: 2021-10-18
 authors:
 - lenka
-draft: true
+draft: false
 toc: true
 
 
