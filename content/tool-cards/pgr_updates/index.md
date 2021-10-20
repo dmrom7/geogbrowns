@@ -1,14 +1,14 @@
 ---
-title: Quantitative Spatial Science
+title: Find empty room for your online meeting 
 summary: 
 tags:
-- Research Groups
+- PGR Documents
 date: 
+
 authors:
   - lenka
-
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/geogbristol/QUSS"
+external_link: "https://www.bris.ac.uk/where-is-my/find/free-room/table?_ga=2.16953209.1387906137.1632904056-1397940601.1601127812"
 
 image:
   caption: 
