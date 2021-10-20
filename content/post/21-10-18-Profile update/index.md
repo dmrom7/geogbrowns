@@ -17,7 +17,7 @@ Do you want to see what other people can find out about your reserach? Do you wa
 <!--more-->
 ## Bristol Pure Research profiles
 
-1. Navigate to https://research-information.bris.ac.uk/en/organisations/school-of-geographical-sciencesand serach for your profile in the profile section (one of the tabs, between network and reserach outputs).
+1. Navigate to https://research-information.bris.ac.uk/en/organisations/school-of-geographical-sciences and serach for your profile in the profile section (one of the tabs, between network and reserach outputs).
 
 2. Once you find your profile, scroll down to the bottom of the page and click on **Log in to Pure**
 
