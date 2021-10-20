@@ -1,6 +1,6 @@
 ---
 title: Historical and Cultural
-summary: 
+summary: research group information
 tags:
 - Research Groups
 date: 

@@ -1,6 +1,6 @@
 ---
 title: Political Economy
-summary: 
+summary: research group information
 tags:
 - Research Groups
 date: 
