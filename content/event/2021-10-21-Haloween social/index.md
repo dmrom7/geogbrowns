@@ -16,11 +16,11 @@ summary: Join us for the 2nd PGR soicial of 2021/22. Pumpkin carving, free snack
 abstract: "
 You are invited to our second social of this year, this time themed as a Halloween party. The schedule is as follows:
 
-* 5pm - We will start by meeting in common room just after five (or when the physical geography presentations are finished)
+* 5pm - We will start by meeting in Browns common room just after five (or when the physical geography presentations are finished)
 
 * 5:15 - We will conduct **Sainsbury's drinks run**, chance for you to grab whatever drink you want and we (school) pay. This was very succesful last time!
 
-* 5:30 - Come back to browns, choose your pumpkin and carve!
+* 5:30 - Come back to Browns, choose your pumpkin and carve!
 
 
 "
