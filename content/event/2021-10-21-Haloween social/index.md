@@ -22,13 +22,7 @@ You are invited to our second social of this year, this time themed as a Hallowe
 
 * 5:30 - Come back to browns, choose your pumpkin and carve!
 
-Pumpkins, candles and some knives are provided, but we would encouradge you to bring your own knife as the stock in a kitchen is limited. Also bring your own pumpkin if you already have one! We will also provide some snack and bits to munch on.
 
-[Here are some ideas on what to do with your pumpkin](https://www.cosmopolitan.com/uk/worklife/g11663920/pumpkin-carving-ideas/)
-
-You'r not sure how to carve a pumpkin? Watch this >
-
-{{< youtube SMTIECsw1PE >}}
 "
 
 # Talk start and end times.
@@ -74,3 +68,11 @@ slides:
 projects:
 ---
 
+
+Pumpkins, candles and some knives are provided, but we would encouradge you to bring your own knife as the stock in a kitchen is limited. Also bring your own pumpkin if you already have one! We will also provide some snack and bits to munch on.
+
+[Here are some ideas on what to do with your pumpkin](https://www.cosmopolitan.com/uk/worklife/g11663920/pumpkin-carving-ideas/)
+
+You'r not sure how to carve a pumpkin? Watch this >
+
+{{< youtube SMTIECsw1PE >}}
