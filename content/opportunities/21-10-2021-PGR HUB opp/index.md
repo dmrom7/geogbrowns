@@ -7,7 +7,7 @@ authors:
 - lenka
 ---
 
-**. The Hub is situated on Level 2 of Senate House and is a dedicated space for postgraduate researchers to relax, attend community events and training.  There is also a bookable training room for PGR focused events and activities. Feel free to pop in and visit us.**
+The Hub is situated on Level 2 of Senate House and is a dedicated space for postgraduate researchers to relax, attend community events and training.  There is also a bookable training room for PGR focused events and activities. Feel free to pop in and visit us.
 
 <!--more-->
 
