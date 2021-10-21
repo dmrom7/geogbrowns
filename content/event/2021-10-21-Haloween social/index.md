@@ -1,5 +1,5 @@
 ---
-title: Halloween PGR social, it's pumkin carving time!
+title: Halloween PGR social, it's pumpkin carving time!
 
 event: Halloween PGR social
 event_url: 
@@ -17,8 +17,18 @@ abstract: "
 You are invited to our second social of this year, this time themed as a Halloween party. The schedule is as follows:
 
 * 5pm - We will start by meeting in common room just after five (or when the physical geography presentations are finished)
+
 * 5:15 - We will conduct **Sainsbury's drinks run**, chance for you to grab whatever drink you want and we (school) pay. This was very succesful last time!
+
 * 5:30 - Come back to browns, choose your pumpkin and carve!
+
+Pumpkins, candles and some knives are provided, but we would encouradge you to bring your own knife as the stock in a kitchen is limited. Also bring your own pumpkin if you already have one! We will also provide some snack and bits to munch on.
+
+[Here are some ideas on what to do with your pumpkin](https://www.cosmopolitan.com/uk/worklife/g11663920/pumpkin-carving-ideas/)
+
+You'r not sure how to carve a pumpkin? Watch this >
+
+{{< youtube SMTIECsw1PE >}}
 "
 
 # Talk start and end times.
@@ -30,7 +40,11 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-10-21T00:00:00Z"
 
-authors: []
+authors: 
+  - lenka
+  - claude
+  - isolde
+  - george
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -60,10 +74,3 @@ slides:
 projects:
 ---
 
-Pumpkins, candles and some knives are provided, but we would encouradge you to bring your own knife as the stock in a kitchen is limited. Also bring your own pumpkin if you already have one! We will also provide some snack and bits to munch on.
-
-[Here are some ideas on what to do with your pumpkin](https://www.cosmopolitan.com/uk/worklife/g11663920/pumpkin-carving-ideas/)
-
-You'r not sure how to carve a pumpkin? Watch this >
-
-{{< youtube SMTIECsw1PE >}}
