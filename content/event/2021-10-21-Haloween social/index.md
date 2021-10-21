@@ -73,6 +73,6 @@ Pumpkins, candles and some knives are provided, but we would encouradge you to b
 
 [Here are some ideas on what to do with your pumpkin](https://www.cosmopolitan.com/uk/worklife/g11663920/pumpkin-carving-ideas/)
 
-You'r not sure how to carve a pumpkin? Watch this >
+Not sure how to carve a pumpkin? Watch this >
 
 {{< youtube SMTIECsw1PE >}}
