@@ -45,7 +45,7 @@ links:
 
 The SSLC meeting is an important part of the PGR (post-graduate research) calendar. Chaired by one of our PGR Reps, it hosts a discussion between the PGR staff and PGR students, and aims to;
 
-1. Provide a safe space in order to communicate any bad or good PGR experiences
+1. Provide a safe space to communicate any bad or good PGR experiences
 2. Inform about any changes from faculty side or the student side 
 3. Update on progress related to Education Action Plan (link in bio)
 4. Update on progress related to PRESS survey
