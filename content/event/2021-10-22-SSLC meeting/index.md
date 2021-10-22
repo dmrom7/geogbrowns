@@ -50,7 +50,7 @@ The SSLC meeting is an important part of the PGR (post-graduate research) calend
 3. Update on progress related to Education Action Plan (link in bio)
 4. Update on progress related to PRESS survey
 
-This meeting is open for all PGRs regardles of year of study, and its purpose is for people to be heard. 
+This meeting is open for all PGRs regardless of year of study, and its purpose is for people to be heard. 
 
 **IMPORTANT** If you are not able to attend the meeting or wish something to be mention on the meeting and don't want to be the known as the author, feel free to fill out [**this anonymous feedback/response/discussion form**](https://forms.gle/TnVWgMn8ShXdvZzd6). 
 
