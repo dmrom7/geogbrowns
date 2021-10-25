@@ -12,9 +12,10 @@ authors:
 <!--more-->
 
 
-*  **[Working With Marginalised Communities: Towards an Ethical Practice for PhD Scholars](https://www.eventbrite.co.uk/e/working-with-marginalised-communities-ethical-practice-for-phd-scholars-tickets-191725685687) – 9-11 November 2021, 3.30pm-5.30pm**
+* **[Working With Marginalised Communities: Towards an Ethical Practice for PhD Scholars](https://www.eventbrite.co.uk/e/working-with-marginalised-communities-ethical-practice-for-phd-scholars-tickets-191725685687) – 9-11 November 2021, 3.30pm-5.30pm**
   - A growing number of PhD students and Early Career Researchers have shown interest in pursuing research with and for communities who have traditionally been viewed from an abstract distance if, indeed, they have been viewed at all. 
   - High levels of professional and personal sensitivity and ethics are essential if the researcher is to avoid replicating the participants’ experiences of marginalisation and creating an abstract rather than rich, nuanced picture of their lives and experiences.
+
   *Note: There are limited places for this training. Please only sign up if you can commit to **all** of the three sessions*
 
 
