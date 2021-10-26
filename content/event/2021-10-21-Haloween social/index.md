@@ -66,7 +66,9 @@ You are invited to our second social of this year, this time themed as a Hallowe
 
 
 
-Pumpkins, candles and some knives are provided, but we would encouradge you to bring your own knife as the stock in a kitchen is limited. Also bring your own pumpkin if you already have one! We will also provide some snack and bits to munch on.
+Pumpkins, and some knives are provided, but we would encouradge you to bring your own knife as the stock in a kitchen is limited. Also bring your own pumpkin if you already have one! We will also provide some individually packed snack and bits to munch on.
+
+**Safety measures** - You are encouradged to wear masks as much as its comfortable for you. However, you are expected to have done an LF test in last 48 hours with a negative result. If you feel like you have any signs of flu, please stay home there is going to be plenty more socials in future.
 
 [Here are some ideas on what to do with your pumpkin](https://www.cosmopolitan.com/uk/worklife/g11663920/pumpkin-carving-ideas/)
 
