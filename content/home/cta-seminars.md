@@ -9,4 +9,4 @@ design:
 ---
 
 
-## {{% cta cta_link="https://www.bristol.ac.uk/geography/events/" cta_text="Find what seminars you can attend → " %}}
+{{% cta cta_link="https://www.bristol.ac.uk/geography/events/" cta_text="Find what seminars you can attend → " %}}
