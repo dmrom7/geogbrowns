@@ -8,4 +8,5 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="https://www.bristol.ac.uk/geography/events/" cta_text="<h3>Find what seminars you can attend → </h3>" %}}
+
+## {{% cta cta_link="https://www.bristol.ac.uk/geography/events/" cta_text="Find what seminars you can attend → " %}}
