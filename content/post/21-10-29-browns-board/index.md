@@ -14,7 +14,7 @@ You may have noticed that we have an introduction board to the PGR students in t
 
 We’ve dug up the old template that was used to make the introductions.
 
-{{< gdocs src=“https://docs.google.com/presentation/d/1l_FRzhBB0n1OgMTok8B3J9vF6VtdvsQz/edit?usp=sharing&ouid=102352639156123599509&rtpof=true&sd=true” >}}
+{{< gdocs src=“https://docs.google.com/presentation/d/16AN-arbQy_NBAinAoLx0F4GG4DEuhHebLnHlAHBennI/edit?usp=sharing” >}}
 
 If you want to be on this introduction board to introduce yourself to your fellow students (and anyone else visiting Browns), fill in the template (if you open the document either the left or the right part, no need to do both). 
 It’s just your name, a picture and a few words about what you study or do in your free time. 
