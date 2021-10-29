@@ -5,14 +5,12 @@ authors:
 - lenka
 - isolde
 
+summary: A coffee machine was placed in the Browns today, provided by the school. It is the same coffee machine as the one in Geography common room and is there for anyone to use. Milk and coffee is suplied as well!
+
 draft: false
 toc: true
 
 ---
-
-## About
-
-A coffee machine was placed in the Browns today, provided by the school. It is the same coffee machine as the one in Geography common room and is there for anyone to use. Milk and coffee is suplied as well!
 
 {{< toc >}} 
 
