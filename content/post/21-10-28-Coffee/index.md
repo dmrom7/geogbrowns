@@ -50,6 +50,9 @@ Let us know if this works for you or if it is too weak or strong.
 
 250g of ground coffee will be delivered each week to the school and will wait in the postal room by the administrative office in the main geography building. If you run out of the coffee grounds, there is a good possibility new one is there.  We need to start using the machine, see how much coffee we go through and then report back if the delivered amount needs to be increased.
 
+![jpg](./images/image3.jpg)
+
+
 ### Filters
 
 Many, many spare filters are placed inside box in the cupboard under the coffee machine. If you run out (should not be anytime soon), please get in touch with one of our Reps.
