@@ -3,7 +3,7 @@
 title: Sonia Pighini
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: MScR student
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I’m half Venezuelan and half Italian, love cooking, baking and anything that’s creative! If you can’t reach me, I’m either at the gym or watching bake-off. My research is about sustainable food systems transition in the lovely city of Bristol.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -27,9 +27,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pighinisonia
-- icon: github
-  icon_pack: fab
-  link: 
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
