@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Missing!
+title: Sonia Pighini
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: We are still looking Geography Masters student representant
+role: MScR student
 
 # Organizations/Affiliations
 organizations:
@@ -23,10 +23,10 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''
+  link: 'sonia.pighini@bristol.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://twitter.com/pighinisonia
 - icon: github
   icon_pack: fab
   link: 
@@ -45,6 +45,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PGR Masters Rep
+- PGR Reps
 ---
 
