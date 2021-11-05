@@ -1,5 +1,5 @@
 ---
-title: BSIDGE seminar series with Lizzie Kendon
+title: BRIDGE seminar series with Lizzie Kendon
 event: 
 summary: 
 
