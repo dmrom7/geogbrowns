@@ -7,7 +7,7 @@ event_url:
 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-11-05T18:00:00Z"
-date_end: "2021-11-05T24:00:00Z"
+date_end: "2021-11-05T00:00:00Z"
 all_day: false
 
 publishDate: "2021-11-04T00:00:00Z"
