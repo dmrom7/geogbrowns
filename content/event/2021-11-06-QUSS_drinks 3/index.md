@@ -21,8 +21,8 @@ For any enquiries, please contact Lenka: Lenka.hasova@bristol.ac.uk or just drop
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-21T17:10:00Z"
-date_end: "2021-10-21T19:00:00Z"
+date: "2021-11-11T17:10:00Z"
+date_end: "2021-11-11T19:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
