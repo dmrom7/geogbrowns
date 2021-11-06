@@ -1,7 +1,7 @@
 ---
-title:  2nd QUSS drinks
+title:  3nd QUSS drinks
 
-event: 2nd QUSS drinks
+event: 3nd QUSS drinks
 event_url: 
 
 location: Left Handed Giant
