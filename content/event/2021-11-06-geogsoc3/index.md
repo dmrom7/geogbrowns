@@ -33,9 +33,7 @@ image:
   caption: 
   focal_point: Right
 
-links:
- - name: 
-   url: 
+
  
 ---
 
