@@ -26,6 +26,8 @@ content:
       tag: '*'
     - name: PGR Documents
       tag: 'PGR Documents'
+    - name: PGR Platforms
+      tag: 'PGR Platforms'
     - name: Research Groups
       tag: 'Research Groups'
     - name: Browns Documents

@@ -1,6 +1,6 @@
 ---
 title: Bristol Doctoral College opportunities, workshops and training November - December 2021
-date: 2021-10-21
+date: 2021-11-09
 image:
   focal_point: "top"
 authors:
