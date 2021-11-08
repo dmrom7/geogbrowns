@@ -2,7 +2,7 @@
 title: Platforms for PGRs
 summary: pages you need for your daily tasks
 tags:
-- PGR Documents
+- PGR Platforms
 date: 
 
 authors:

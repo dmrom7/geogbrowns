@@ -1,6 +1,6 @@
 ---
-title: MyERP
-summary: MyERP is the University's integrated Finance, HR, Payroll and Procurement system
+title: Blackboard Learn
+summary: 
 tags:
 - PGR Platforms
 date: 
@@ -8,7 +8,7 @@ date:
 authors:
   - lenka
 # Optional external URL for project (replaces project detail page).
-external_link: "https://myerp.bris.ac.uk/agresso/"
+external_link: "https://www.ole.bris.ac.uk/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_17_1"
 
 image:
   caption: 

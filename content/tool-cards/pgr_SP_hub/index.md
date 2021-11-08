@@ -2,7 +2,7 @@
 title: PGR Hub on SharePoint
 summary: 
 tags:
-- PGR Documents
+- PGR Platforms
 date: 
 
 authors:
