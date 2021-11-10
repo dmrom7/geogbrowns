@@ -13,6 +13,9 @@ publishDate: "2021-10-21T00:00:00Z"
 authors:
 - lenka
 - isolde
+- george
+- claude
+- sonia
 
 draft: false
 toc: false
@@ -25,6 +28,9 @@ image:
   focal_point: Right
 
 links:
+ - name: Agenda for SSLC meeting 17
+   url: 'https://uob.sharepoint.com/:w:/r/sites/geog-sci-files/_layouts/15/Doc.aspx?sourcedoc=%7BF26871D9-A413-4804-87DA-61A23EC78743%7D&file=GEOG%20PGR%20SSLC%20Minutes%2025Aug21.docx&action=default&mobileredirect=true'
+
  - name: Recordings from past SSLC meetings
    url: 'https://uob.sharepoint.com/teams/grp-ggy-postgrad/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2Fgrp%2Dggy%2Dpostgrad%2FShared%20Documents%2FSSLC&viewid=23b21ecf%2D2c8f%2D446b%2D9b7b%2De9cd79bdeeae'
  
