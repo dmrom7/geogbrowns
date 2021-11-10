@@ -3,7 +3,7 @@ title: Doctoral Open Days 2022 - Get started with the British Library
 
 event: Doctoral Open Days 2022 - Get started with the British Library
 event_url: https://www.eventbrite.co.uk/e/enhancing-research-culture-tickets-192241458377
-location: online & on-site
+location: online and on-site
 address:
   street: 
   city: 
@@ -11,7 +11,7 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: A series of webinars and on-site events to introduce new PhD students to our collections
+summary: 'A series of webinars and on-site events to introduce new PhD students to our collections'
 abstract: ""
 
 # Talk start and end times.
@@ -54,6 +54,7 @@ projects:
 ---
 
 **About this event**
+
 What is the British Library? What’s in the collection? And how can I find what I need? Join us for a series of webinars to learn how to kick off your research.  Our online Doctoral Open Days will be followed by two on site orientation days at the Library in St Pancras.
 
 details and registration here: https://www.bl.uk/news/2021/november/doctoral-open-days-2022---get-started-with-the-british-library/#
