@@ -5,7 +5,7 @@ authors:
 - giada
 - vivek
 - zoonii
-- joey
+- yiqiao
 
 summary: The EDI reps team is finally complete, and we are excited to be able to share with you what we are planning for this academic year!
 draft: false
