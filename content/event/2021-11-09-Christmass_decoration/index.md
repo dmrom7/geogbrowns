@@ -1,7 +1,7 @@
 ---
-title: Browns Christmas decoration - postponed fue to works in Browns
+title: Browns Christmas decoration - postponed due to works in Browns
 
-event: Browns Christmas decoration - postponed fue to works in Browns
+event: Browns Christmas decoration - postponed due to works in Browns
 event_url: 
 location: Browns
 address:
