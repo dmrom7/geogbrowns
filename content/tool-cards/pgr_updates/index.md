@@ -8,7 +8,7 @@ date:
 authors:
   - lenka
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.bris.ac.uk/where-is-my/find/free-room/table?_ga=2.16953209.1387906137.1632904056-1397940601.1601127812"
+external_link: "https://uob.sharepoint.com/teams/grp-ggy-postgrad/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fteams%2Fgrp%2Dggy%2Dpostgrad%2FShared%20Documents&viewpath=%2Fteams%2Fgrp%2Dggy%2Dpostgrad%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fteams%2Fgrp%2Dggy%2Dpostgrad%2FShared%20Documents%2FPGR%20updatews%20from%20school&viewid=23b21ecf%2D2c8f%2D446b%2D9b7b%2De9cd79bdeeae"
 
 image:
   caption: 
