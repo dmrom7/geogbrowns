@@ -57,7 +57,7 @@ We would like to take out the Christmas tree and Christmas decorations out of th
 
 Join us at 5pm, some individual drinks and snacks will be supplied.
 
-**Safety measures** - You are encouradged to wear masks as much as its comfortable for you. However, you are expected to have done an LF test in last 48 hours with a negative result. If you feel like you have any signs of flu, please stay home there is going to be plenty more socials in future.
+**Safety measures** - You must wear mask. You are expected to have done an LF test in last 48 hours with a negative result. If you feel like you have any signs of flu, please stay home there is going to be plenty more socials in future.
 
 ## Here is some inspiration for origami decorations:
 
