@@ -53,7 +53,7 @@ slides:
 projects:
 ---
 
-We would like to take out the christmass tree and Christmass decorations out of the storage and decorate newly done Browns common room. We will also attempt to do some origami christmass decorations and network along the way. 
+We would like to take out the Christmas tree and Christmas decorations out of the storage and decorate newly done Browns common room. We will also attempt to do some origami christmass decorations and network along the way. 
 
 Join us at 5pm, some individual drinks and snacks will be supplied.
 
