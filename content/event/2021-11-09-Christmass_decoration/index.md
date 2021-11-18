@@ -1,7 +1,7 @@
 ---
 title: Browns Christmas decoration
 
-event: Browns Christmas decoration
+event: Browns Christmas decoration - social
 event_url: 
 location: Browns
 address:
@@ -11,7 +11,7 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: We plan to take out the Christmas decorations out of the closet and decorate Browns common room. Wednesday 17th November - 5pm! Feel free to join us and help out! 
+summary: We plan to take out the Christmas decorations out of the closet and decorate Browns common room. Do some origami decorations and network. Wednesday 24th November - 5pm! Feel free to join us and help out! 
 abstract: ""
 
 # Talk start and end times.
@@ -52,3 +52,20 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
+We would like to take out the christmass tree and Christmass decorations out of the storage and decorate newly done Browns common room. We will also attempt to do some origami christmass decorations and network along the way. 
+
+Join us at 5pm, some individual drinks and snacks will be supplied.
+
+
+## Here is some inspiration for origami decorations:
+
+{{< youtube TZAsOQiZMEs >}}
+
+{{< youtube 7jLjZk6VDH4 >}}
+
+{{< youtube TO9uYoBmmUY >}}
+
+{{< youtube P6XDBUK4fNg >}}
+
+{{< youtube QtsQt_xxINQ >}}
