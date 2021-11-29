@@ -2,7 +2,7 @@
 title: "Unsettling feelings in the classroom - scaffolding pedagogies of discomfort as part of decolonising human geography in higher education"
 authors:
 - "Naomi Millner*"
-- Filippo Menga
+
 
 doi: "https://doi.org/10.1080/03098265.2021.2004391"
 
