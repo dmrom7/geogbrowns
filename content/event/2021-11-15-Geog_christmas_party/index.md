@@ -11,8 +11,7 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: What can the higher education sector do to address the challenges of developing and improving research culture?
-abstract: ""
+summary: The Geography party of the year. Unlimited food and drinks and PGRs are very welcome! ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
