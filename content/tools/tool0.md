@@ -24,7 +24,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: PGR Documents
+    - name: PGR Documents & Tools
       tag: 'PGR Documents'
     - name: PGR Platforms
       tag: 'PGR Platforms'
