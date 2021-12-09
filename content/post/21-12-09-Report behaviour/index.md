@@ -1,5 +1,5 @@
 ---
-title: EDI - Report unacceptable behaviour 
+title: Equality, Diversity and Inclusion - Report unacceptable behaviour 
 date: 2021-12-09
 authors:
 - giada
@@ -36,4 +36,6 @@ Complete the [Request Wellbeing Support form](https://www.bristol.ac.uk/students
 
 We saved this useful resources also as a Tool&Link card, so you have an easy access to the reporting tools anytime.
 
-image
+
+![png](./images/pic0.png)
+![png](./images/pic1.png)
