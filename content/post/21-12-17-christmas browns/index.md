@@ -27,7 +27,7 @@ There are various IT services available to you over the break: https://uob.share
 ## Heating
 
 Estates will automatically reduce levels of central heating over this period and will turn the systems back up, in time for temperatures to return to normal by Wednesday 5th January 2022.
-If you will be working in Browns over Christmas, and you dont have your own personal heater, please get in touch with one of our Rep's. We are currently working on sourcing some heaters.
+If you will be working in Browns over Christmas, and you dont have your own personal heater, please get in touch with one of our Rep's, or drop message o our WhatsApp chat. There should be 2-3 oil based heaters currently availiable in Browns.
 
 ## What are the covid measures?
 
