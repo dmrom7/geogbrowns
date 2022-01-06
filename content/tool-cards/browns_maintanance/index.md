@@ -1,6 +1,6 @@
 ---
 title: Browns Maintanance tool
-summary: Broken light, tap or cracked window? Use this site to report any facility issues and brakage.
+summary: "Broken light, tap or cracked window? Use this site to report any facility issues and brakage."
 tags:
 - Browns Documents
 date: 
@@ -8,7 +8,7 @@ date:
 authors:
   - lenka
 # Optional external URL for project (replaces project detail page).
-external_link: "https://uob.sharepoint.com/sites/campus-division/SitePages/maintenance-services.aspx
+external_link: "https://uob.sharepoint.com/sites/campus-division/SitePages/maintenance-services.aspx"
 image:
   caption: 
   focal_point: Smart
