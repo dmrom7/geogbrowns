@@ -30,7 +30,7 @@ content:
       tag: 'PGR Platforms'
     - name: Research Groups
       tag: 'Research Groups'
-    - name: Browns Documents
+    - name: Browns Tools
       tag: 'Browns Documents'
 
 
