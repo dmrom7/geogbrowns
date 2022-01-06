@@ -1,5 +1,5 @@
 ---
-title: Browns Maintanance tool
+title: Browns Maintenance tool
 summary: "Broken light, tap or cracked window? Use this site to report any facility issues and brakage."
 tags:
 - Browns Documents
