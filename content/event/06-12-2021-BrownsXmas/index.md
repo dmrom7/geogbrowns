@@ -10,7 +10,7 @@ all_day: false
 
 authors: [isolde]
 
-featured: true
+featured: false
 
 publishDate: "2021-11-25T00:00:00Z"
 
