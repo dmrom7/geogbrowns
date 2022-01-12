@@ -30,4 +30,4 @@ links:
  
 ---
 
-
+This blak tie event is a traditional social of geography postgraduates. This year it takes place in 'We the Curious' on Friday 28th January. Tickets are £40 and includes dinner amd drinks. All staff an students are welcomed.
