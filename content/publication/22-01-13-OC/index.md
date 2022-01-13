@@ -19,7 +19,7 @@ publication_types: ["5"]
 publication: "Bloomsbury Publishing PLC"
 publication_short: ""
 
-abstract: Based on new evidence that challenges existing theories of
+abstract: "Based on new evidence that challenges existing theories of
 urban inequality, Urban Inequality argues that the changing
 pattern of earnings and occupational inequality in Johannesburg is
 better described by the professionalionalisation of employment
@@ -32,7 +32,7 @@ new division of labour that has caused new forms of racial
 inequality. That racial inequality in the post-apartheid period is
 not the result of the persistence of apartheid-era causes, but is
 the result of new causes that have interacted with the historical
-effects of apartheid to produce new patterns of racial inequality.
+effects of apartheid to produce new patterns of racial inequality."
 
 #tags:
 
