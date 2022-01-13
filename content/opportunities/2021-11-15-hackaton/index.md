@@ -16,12 +16,9 @@ abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-12-08T00:00:00Z"
-date_end: "2021-12-15T00:00:00Z"
-all_day: false
+date: "2022-12-08"
 
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-09-01T00:00:00Z"
+
 
 authors: [lenka]
 tags: []

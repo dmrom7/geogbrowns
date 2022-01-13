@@ -1,7 +1,7 @@
 ---
 title: Online workshop - Ethics, Information Security and Legal Considerations for Online Research
 
-date: 2022-01-19
+date: 2022-01-13
 image:
   focal_point: "top"
 authors:
