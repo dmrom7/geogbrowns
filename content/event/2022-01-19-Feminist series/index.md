@@ -1,12 +1,11 @@
 ---
 title: Feminist Theories for Contemporary Times
-event: Part of the Feminist Perspectives webinar series 2022 collection
-by South West Doctoral Training Partnership
-summary: This blak tie event is a traditional social of geography postgraduates. This year it takes place in 'We the Curious' on Friday 28th January. Tickets are £40 and includes dinner amd drinks. All staff an students are welcomed.
+event: Part of the Feminist Perspectives webinar series 2022 collection by South West Doctoral Training Partnership
+summary: "This blak tie event is a traditional social of geography postgraduates. This year it takes place in 'We the Curious' on Friday 28th January. Tickets are £40 and includes dinner amd drinks. All staff an students are welcomed."
 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-01-28T16:00:00Z"
-date_end: "2022-01-28T00:00:00Z"
+date_end: "2022-01-29T00:00:00Z"
 all_day: false
 
 publishDate: "2022-01-05T00:00:00Z"
