@@ -19,6 +19,7 @@ content:
   - PGR Reps
   - Equality, Diversity and Inclusion Rep
   - Social Reps
+  - Lab Rep
  
 design:
   show_interests: false
