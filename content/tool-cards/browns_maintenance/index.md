@@ -1,6 +1,6 @@
 ---
 title: Browns Maintenance tool
-summary: "Broken light, tap or cracked window? Use this site to report any facility issues and brakage."
+summary: "Broken light, tap or cracked window? Use this site to report any facility issues and brakage. NOTE: If you don't currently have a HPT contract, you will not be allowed to report maintanance issues through this system. Please aproach one of our PGR Reps or any student who has HPT contract with the issue to report maintenance issues correctly."
 tags:
 - Browns Documents
 date: 
