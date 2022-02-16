@@ -20,7 +20,7 @@ date: "2022-02-18T17:30:00Z"
 date_end: "2022-02-18T00:00:00Z"
 all_day: false
 
-publishDate: "2022-01-24T00:00:00Z"
+publishDate: "2022-02-16T00:00:00Z"
 
 authors:
 - lenka
