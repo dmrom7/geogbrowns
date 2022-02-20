@@ -28,7 +28,7 @@ image:
   focal_point: Right
 
 links:
- - name: Agenda for SSLC meeting 17
+ - name: Agenda for SSLC meeting
    url: 'https://uob.sharepoint.com/sites/geog-sci-files/_layouts/15/doc.aspx?sourcedoc={20180aa0-5ab2-44cb-b4d7-10f5307e8c05}&action=edit'
 
  - name: Recordings from past SSLC meeting
