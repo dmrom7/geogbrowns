@@ -40,14 +40,14 @@ links:
  - name: Topic/feedback form here
    url: 'https://docs.google.com/forms/d/e/1FAIpQLSeHAX_X_bcuBO0sg3_bCXFB9GtwL27tfWu-2F5RLZl4FA7ESg/viewform'
 
- - name: Join the meeting here
+ - name: Join the meeting here (available closer to the date)
    url: ''
 ---
 
 **The Staff Student Liaison Committee (SSLC) is a mechanism by which students and staff can communicate and obtain feedback about all aspects of the PGR experience. Join us for this year's first SSL  meeting to find out the progress on improving your student experience.**
 
 **When:** 16th March 2-4 p.m. 
-**Where** online on teams, link can be found in your calendar invites and in a header of this post.
+**Where** online on teams, link can be found in your calendar invites and in a header of this post (available closer to the date).
 
 The SSLC meeting is an important part of the PGR (post-graduate research) calendar. Chaired by one of our PGR Reps, it hosts a discussion between the PGR staff and PGR students, and aims to;
 
