@@ -30,7 +30,7 @@ slides:
 ---
 
 
-## [**This Tool**](https://www.bris.ac.uk/where-is-my/find/free-room/table?_ga=2.16953209.1387906137.1632904056-1397940601.1601127812) Allows you to look for room availiable in cpesific buildings.
+## [**This Tool**](https://www.bris.ac.uk/where-is-my/find/free-room/table?_ga=2.16953209.1387906137.1632904056-1397940601.1601127812) allows you to look for room availiable in specific buildings.
 
 
 ## [**This Tool**](https://www.bris.ac.uk/syllabus-plus/tt2021/location.asp) allows you to look at the timetable for specific room in specific building.
