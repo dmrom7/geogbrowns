@@ -60,8 +60,8 @@ In the reconsiliation with our ping pong table, we are organazing a ping pong to
 
 Schedule:
 
-* 17:00 - 17:20 Tournament registration
-* 17:20 - 18:20 Game time!
+* 17:00 - 17:15 registration, you can also [**register here**](https://forms.gle/KcfhTXCu711kMAus7) to save some time
+* 17:15 - 18:15 Game time!
 
 There will be plenty of **drinks (alcoholic and non-alcoholic) and snacks**, covered by PGR social budget.
 
