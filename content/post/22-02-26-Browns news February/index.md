@@ -51,8 +51,8 @@ If you want to be part of the **Green Collective** please send us your email and
 Based on your feedback and some of our ideas we have added some things to Browns we think you will like. 
 * We added **buiscits** and salt and pepper grinder. Stock of buscits, salt and pepper is available in the PGR Rep cabinet, on the left side of the fridge.
 * We added **blankets** for you to use if you get too cold. We also have two oil-heaters in Browns, if you need one pop a message to our GEographypostgrad WhatsApp chat.
-* We added **sanitary products** in the womens bathroom. Stock of buscits, salt and pepper is available in the PGR Rep cabinet, on the left side of the fridge.
-* We digged all the **board games** that have been hidding around Browns and added set of Chess.
+* We added **sanitary products** in the womens bathroom. Again, stock is available in the PGR Rep cabinet, on the left side of the fridge.
+* We digged out all the **board games** that have been hidding around Browns and added set of Chess.
 
 Most of those items were purchased from the PGR Social budget and will be mostly managed by PGR Reps. Nevertheless, feel free to donate vegan buiscits, salt boxes or sanitary products, to contribute to the community. 
 
