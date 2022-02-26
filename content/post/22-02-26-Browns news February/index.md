@@ -21,6 +21,11 @@ We (PGR Reps) have reviewed all the suggestions and complaints, and tried to adr
 
 We would also like to remind you that the renovations in Browns were consulted with PGRs many times and are result of several years of hard work of our previous PGR Reps. The form and style of renovation was out of PGR hands as the university provided budget only for 'deafult' options, hence the generic carpet. We would like to **Thank past PGRs** for all the work they put into making this change happen.
 
+{{< toc >}} 
+
+<!--more-->
+
+
 ## Ping Pong table
 
 The ping pong table seem to still styr a drama amongst PGRs. According to our repondents 45% of you wants to get rid of it and 55% of you wants to keep it. Nevertheless, the main reasons for why do you folks want to get rid of it is that it is not really used and just takes up space, and that it is broken and barely usable.
