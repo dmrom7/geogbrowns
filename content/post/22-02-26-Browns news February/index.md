@@ -8,6 +8,7 @@ authors:
 - sonia
 - george
 
+summary: Discover what's new in Browns. Here we answer all your burning questions, adress comments and implement suggestions. Join our Green Collective group and help buid plant life in Browns.
 
 draft: false
 toc: true
@@ -16,7 +17,7 @@ toc: true
 
 First of all, we would like to thank to all people that took the time to let us know how they feel about Browns. In general, the respondents are now very satisfied with the space, which is huge difference from past years. 
 
-We (PGR Reps) have reviewed all the suggestions and complaints, and try to adress them accordingly. This post provides an overview on the changes we want to implement or already implemented, and answers some burning questions raised.
+We (PGR Reps) have reviewed all the suggestions and complaints, and tried to adress them accordingly. This post provides an overview on the changes we want to implement or already implemented, and answers some burning questions raised.
 
 We would also like to remind you that the renovations in Browns were consulted with PGRs many times and are result of several years of hard work of our previous PGR Reps. The form and style of renovation was out of PGR hands as the university provided budget only for 'deafult' options, hence the generic carpet. We would like to **Thank past PGRs** for all the work they put into making this change happen.
 
