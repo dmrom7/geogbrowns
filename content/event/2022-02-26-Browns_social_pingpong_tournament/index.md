@@ -56,18 +56,18 @@ projects:
 
 ## Ping Pong Tournament
 
-In the reconciliation with our ping pong table, we are organizing a ping pong tournament in Browns common room. Anybody is welcomed to join us either as a player or as an audience. The best player will gain the title of **Browns ping-pong champion** for the 2022 year, and receives sweet prize.
+In the reconciliation with our ping pong table, we are organizing a ping pong tournament in Browns common room. Anybody is welcome to join us either as a player or as audience. The best player will gain the title of **Browns ping-pong champion** for the 2022 year, and receive a sweet prize.
 
 Schedule:
 
 * 17:00 - 17:15 registration, you can also [**register here**](https://forms.gle/KcfhTXCu711kMAus7) to save some time
 * 17:15 - 18:15 Game time!
 
-There will be plenty of **drinks (alcoholic and non-alcoholic) and snacks**, covered by PGR social budget.
+There will be plenty of **drinks (alcoholic and non-alcoholic) and snacks**, covered by the PGR social budget.
 
 ## Charity donation for Ukraine
 
-As part of this social, we would also like to generate some cash that will be donated on behalf of Geography PGRs to chosen charity supporting the current situation in Ukraine. There is a piggy bank already placed in Browns into which you can place your donation. We recommend £5 per person, but any donation will be helpful.
+As part of this social, we would also like to generate some cash that will be donated on behalf of Geography PGRs to a chosen charity supporting the current situation in Ukraine. There is a piggy bank already placed in Browns into which you can place your donation. We recommend £5 per person, but any donation will be helpful.
 You will be able to vote which charity from the following you want to donate to.
 
 ### Charities
