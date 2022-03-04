@@ -39,6 +39,11 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+links:
+ - name: Register as a player here
+   url: 'https://forms.gle/KcfhTXCu711kMAus7'
+
+
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
