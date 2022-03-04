@@ -1,7 +1,7 @@
 ---
-title:  3rd QUSS drinks
+title:  4rd QUSS drinks
 
-event: 3rd QUSS drinks
+event: 4rd QUSS drinks
 event_url: 
 
 location: Left Handed Giant
@@ -16,13 +16,15 @@ summary: QUSS evening social
 abstract: "QUSS drinks out is a social time for our fellow QUSS member, but also for anyone else who want to join us.
 We will agree on appropriate pub/place during a lunch time seminar and meet there after work.
 
+We meet at 5pm in front of Geography main entrance, or shortly after in LHG.
+
 For any enquiries, please contact Lenka: Lenka.hasova@bristol.ac.uk or just drop a message on our WhatsApp group chat.
 "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-11-11T17:10:00Z"
-date_end: "2021-11-11T19:00:00Z"
+date: "2022-03-17T17:10:00Z"
+date_end: "2022-03-17T19:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -60,5 +62,9 @@ projects:
 
 QUSS drinks out is a social time for our fellow QUSS member, but also for anyone else who want to join us.
 We will agree on appropriate pub/place during a lunch time seminar and meet there after work.
+
+
+We meet at 5pm in front of Geography main entrance, or shortly after in LHG.
+
 
 For any enquiries, please contact Lenka: Lenka.hasova@bristol.ac.uk or just drop a message on our WhatsApp group chat.
