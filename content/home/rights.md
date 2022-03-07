@@ -17,7 +17,7 @@ design:
 
 cta:
   url: 'https://uob.sharepoint.com/sites/geographical-sciences/SitePages/Geography-PGR.aspx'
-  label: Find the information provided by department on Geography PGR hub
+  label: Find information provided by department on Geography PGR hub
   icon_pack: fas
   icon: laptop-house
 ---
