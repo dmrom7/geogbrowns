@@ -22,3 +22,6 @@ main:
   - name: People
     url: people
     weight: 70
+  - name: Discussion board
+    url: discussion
+    weight: 80
