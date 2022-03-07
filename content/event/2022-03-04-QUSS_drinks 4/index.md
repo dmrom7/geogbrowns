@@ -58,6 +58,8 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+commentable: true
 ---
 
 QUSS drinks out is a social time for our fellow QUSS member, but also for anyone else who want to join us.

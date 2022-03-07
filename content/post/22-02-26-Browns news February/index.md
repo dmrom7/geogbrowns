@@ -12,6 +12,7 @@ summary: Discover what's new in Browns. Here we answer all your burning question
 
 draft: false
 toc: true
+commentable: true
 
 ---
 

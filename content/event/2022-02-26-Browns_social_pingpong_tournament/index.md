@@ -57,6 +57,8 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+commentable: true
 ---
 
 Hello dear PGRs! In view of the current situation in Ukraine, us Reps decided to turn the next social into a charity fundraiser! Of course though we had to make it fun… so buckle up for the ultimate Ping Ping tournament! 🏓 And if you don’t want to play ping pong, you’re still welcome to join us for some charitable drinks and snacks! 
