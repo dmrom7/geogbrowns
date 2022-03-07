@@ -92,7 +92,7 @@ projects:
   publication_view: 2
   talk_view: 2
 comments:
-  provider: ''
+  provider: disqus
   commentable:
     page: true
     post: true
@@ -101,7 +101,7 @@ comments:
     publication: true
     talk: true
   disqus:
-    shortname: ''
+    shortname: 'lenkahasova'
     show_count: true
   commento:
     url: ''
