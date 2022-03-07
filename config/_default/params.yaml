@@ -101,7 +101,7 @@ comments:
     publication: true
     talk: true
   disqus:
-    shortname: 'geogbrowns-info'
+    shortname: 'geogbrowns'
     show_count: true
   commento:
     url: ''
