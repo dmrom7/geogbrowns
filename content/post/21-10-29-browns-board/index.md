@@ -12,7 +12,7 @@ links:
  - name: Browns Noteboard Template
    url: 'https://uob.sharepoint.com/:p:/r/teams/grp-ggy-postgrad/_layouts/15/Doc.aspx?sourcedoc=%7BB97C2C63-24AB-4974-A5C7-209132CB8825%7D&file=browns_nameboard_template.pptx&action=edit&mobileredirect=true'
  
-
+commentable: true
 
 ---
 

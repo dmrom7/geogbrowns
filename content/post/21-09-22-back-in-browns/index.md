@@ -5,6 +5,7 @@ image:
   focal_point: "top"
 authors:
 - lenka
+commentable: true
 ---
 
 *What are the current rules? What do I need to do the come to Browns again?*

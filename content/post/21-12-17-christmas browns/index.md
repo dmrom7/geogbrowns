@@ -6,7 +6,7 @@ authors:
 
 summary: PGRs may use Browns and the School building over the break, similarly as in the evenings and weekends. Read all the details here!
 draft: false
-
+commentable: true
 ---
 
 ## What are the Rules?

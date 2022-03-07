@@ -9,7 +9,7 @@ authors:
 
 summary: What is unnacceptable behaviour and where you report it? All details here!
 draft: false
-
+commentable: true
 ---
 
 ## What is unacceptable behaviour?

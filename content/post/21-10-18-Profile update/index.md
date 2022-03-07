@@ -10,6 +10,8 @@ toc: true
 links:
  - name: Bristol Pure Research profiles
    url: https://research-information.bris.ac.uk/en/organisations/school-of-geographical-sciences
+
+commentable: true
 ---
 
 Do you want to see what other people can find out about your reserach? Do you want to make sure this information is up-to-date? Look no further!

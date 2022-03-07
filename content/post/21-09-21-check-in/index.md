@@ -8,6 +8,8 @@ authors:
 links:
  - name: Browns desk check-in & hot-desking
    url: 'https://uob.sharepoint.com/:x:/r/teams/grp-ggy-postgrad/_layouts/15/Doc.aspx?sourcedoc=%7B8BD03C7F-31EC-4C12-9AD3-CAE26A497B45%7D&file=Browns%20desk%20check-in.xlsx&action=default&mobileredirect=true'
+
+commentable: true
 ---
 
 Social distancing in Browns; how many people is in?

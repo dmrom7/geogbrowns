@@ -8,6 +8,8 @@ authors:
 links:
  - name: Cake Rota
    url: https://uob.sharepoint.com/:x:/r/teams/grp-ggy-postgrad/_layouts/15/Doc.aspx?sourcedoc=%7B4538461A-6E3C-4EC3-8051-0BFE09120C54%7D&file=Browns%20Cake%20Rota.xlsx&action=default&mobileredirect=true
+
+commentable: true
 ---
 
 **Coffee and Cake time resumed from dead!**

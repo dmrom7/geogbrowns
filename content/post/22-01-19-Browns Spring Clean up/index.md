@@ -6,7 +6,7 @@ authors:
 
 summary: We are organizing another waste collection for Browns. Help us clean up the space.
 draft: false
-
+commentable: true
 ---
 
 Because there is still a lot of unnecessary things leftover in the Browns, we are organizing another waste collection for **7th February**.

@@ -9,7 +9,7 @@ summary: A coffee machine was placed in the Browns today, provided by the school
 
 draft: false
 toc: true
-
+commentable: true
 ---
 A coffee machine was placed in the Browns today, provided by the school. It is the same coffee machine as the one in Geography common room and is there for anyone to use. Milk and coffee is supplied as well!
 
