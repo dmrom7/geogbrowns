@@ -13,7 +13,6 @@ summary: Discover what's new in Browns. Here we answer all your burning question
 draft: false
 toc: true
 commentable: true
-
 ---
 
 First of all, we would like to thank everyone who took the time to let us know how they feel about Browns. In general, the respondents are now very satisfied with the space, which is a huge difference from past years. 

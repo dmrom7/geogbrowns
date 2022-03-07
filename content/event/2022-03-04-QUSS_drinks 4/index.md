@@ -12,6 +12,7 @@ address:
   postcode:  'BS1 6EU'
   country: United Kingdom
 
+
 summary: QUSS evening social
 abstract: "QUSS drinks out is a social time for our fellow QUSS member, but also for anyone else who want to join us.
 We will agree on appropriate pub/place during a lunch time seminar and meet there after work.
@@ -35,6 +36,7 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: true
+commentable: true
 
 image:
   caption: 
@@ -58,8 +60,6 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-
-commentable: true
 ---
 
 QUSS drinks out is a social time for our fellow QUSS member, but also for anyone else who want to join us.
