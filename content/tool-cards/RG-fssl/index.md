@@ -1,20 +1,19 @@
 ---
-title: Geography Department Research Groups
+title: Faculty of Social Science and Law Reserach Groups
 summary: 
 tags:
 - Research Groups
 date: 
-
 authors:
   - lenka
+
 # Optional external URL for project (replaces project detail page).
-external_link: "http://www.bristol.ac.uk/geography/research/"
+external_link: 'links:https://geogbrowns.info/event/2022-02-20-sslc-meeting-2/'
 
 image:
   caption: 
   focal_point: Smart
 
-links:
 
 url_code: ""
 url_pdf: ""
@@ -28,3 +27,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: 
 ---
+
