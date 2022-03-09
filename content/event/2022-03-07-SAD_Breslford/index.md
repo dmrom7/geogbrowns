@@ -13,7 +13,7 @@ address:
   country: United Kingdom
 
 
-summary: QUSS evening social
+summary: 'Spatial Analytics & Data Seminar Series'
 abstract: "
 "
 
