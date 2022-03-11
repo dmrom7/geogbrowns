@@ -10,5 +10,5 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Join us for coffee, tea and buiscits on Tuesdays 11am in Browns common room & Thursdays 11pm in department common room"
-  image: geography.jpeg
+  image: geography.jpg
 ---
