@@ -1,5 +1,5 @@
 ---
-title: Platforms for PGRs
+title: Other platforms for PGRs
 summary: pages you need for your daily tasks
 tags:
 - PGR Platforms
