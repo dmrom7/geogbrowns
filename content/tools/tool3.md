@@ -5,7 +5,7 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+weight: 2  # Order that this section will appear.
 title: 
 hero_media: feedback.png
 design:
@@ -17,7 +17,7 @@ design:
 
 cta:
   url: 'https://forms.office.com/pages/responsepage.aspx?id=MH_ksn3NTkql2rGM8aQVG8-nN3IbtmlBih4-AV26fpVUMjRaNTA0WENHOEVJNkhBVlVLMUFVQUtMNyQlQCNjPTEkJUAjdD1n'
-  label: PGR feedback form
+  label: PGR feedback form (anonymous, goes directly to PGR Director)
   icon_pack: fas
   icon: comments
 cta_alt:
