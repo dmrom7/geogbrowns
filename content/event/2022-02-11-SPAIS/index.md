@@ -25,8 +25,8 @@ address:
   country: 
 
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-03-18T17:30:00Z"
-date_end: "2022-03-18T00:00:00Z"
+date: "2022-03-25T17:30:00Z"
+date_end: "2022-03-25T00:00:00Z"
 all_day: false
 
 publishDate: "2022-02-16T00:00:00Z"
@@ -49,6 +49,6 @@ image:
  
 ---
 
-On Friday 25th February, PGRs from the School of Sociology, Politics, and International Studies (SPAIS) are holding a social event at the PGR hub. We would very much like to meet people from other departments, so would be great to see some geography PGRs there. There will be pizza and drinks!
+On Friday 25thMarch, PGRs from the School of Sociology, Politics, and International Studies (SPAIS) are holding a social event at the PGR hub. We would very much like to meet people from other departments, so would be great to see some geography PGRs there. There will be pizza and drinks!
 
 Please e-mail me (dm18378@bristol.ac.uk) if you have dietary requirements! Would also appreciate it if you could do a lateral flow test beforehand! 
