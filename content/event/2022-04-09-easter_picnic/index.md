@@ -18,7 +18,7 @@ abstract: " Join us for a afternoon picnic at Brandon Hill. Drinks and snacks pr
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-04-21T16:00:00Z"
-date_end: "2022-04-21T18:0'/;>0:00Z"
+date_end: "2022-04-21T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
