@@ -69,10 +69,10 @@ We will be leaving Browns at 4pm and head to the park on Brandon Hill. This is a
 
 ## Food & Snack
 
-The PGR Rep team will supply some soft drinks as well as beers, will get some snacks , chocolate eggs and maybe even cake. **Feel free to bring your own easter food creations and share your best easter recipe**
+The PGR Rep team will supply some soft drinks as well as beers, will get some snacks, chocolate eggs and maybe even cake. **Feel free to bring your own easter food creations and share your best easter recipe**
 
 ## Covid safety?
 
-We know that you can't get any more free lateral flow tests so it is not mandatory for you to do one. However, if you do have spare we would like to encourage you to do one, especially if the event moves inside.
+We know that you can't get any more free lateral flow tests so it is not mandatory for you to do one. However, if you do have spare, we would like to encourage you to do one, especially if the event moves inside.
 If you wish the wear masks or not, feel free to do as you find appropriate.
 
