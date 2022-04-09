@@ -24,7 +24,7 @@ commentable: true
 
 You can find materials on the training courses delivered in the past years at [SharePoint](https://uob.sharepoint.com/teams/grp-ggy-postgrad/Shared%20Documents/Forms/AllItems.aspx?viewid=23b21ecf%2D2c8f%2D446b%2D9b7b%2De9cd79bdeeae&id=%2Fteams%2Fgrp%2Dggy%2Dpostgrad%2FShared%20Documents%2FTraining)
 
-![]('./images/fig1.png')
+![](./images/fig1.png)
 
 ## [Advanced Computing Research Centre (ACRC) training](https://www.bristol.ac.uk/acrc/acrc-training/)
 
@@ -37,7 +37,7 @@ They offer
 * use of GIT
 * Ton of other stuff like Julia, Fortran, C++
 
-![]('./images/fig2.png')
+![](./images/fig2.png)
 
 
 ## [ESRC research skills and resources](https://www.ukri.org/councils/esrc/career-and-skills-development/training/resources-to-develop-your-research-skills-and-career/)
@@ -45,7 +45,7 @@ They offer
 ESRC offers more academic related courses and tutorials. They can help with better understanding of the processes like how to write your thesis, writting your CV, how to write proposal, how to publish or impact writting.
 You can also check out their page on careers in social science for postgraduates.
 
-![]('./images/fig3.png')
+![](./images/fig3.png)
 
 ## [Bristol Doctoral College](https://uob.sharepoint.com/sites/bristol-doctoral-college)
 
@@ -64,14 +64,14 @@ But also:
 
 There is so much, you will have a hard time to choose.
 
-![]('./images/fig4.png'=250x)
+![](./images/fig4.png =250x)
 
 ## [National Centre for Research and Methods](https://www.ncrm.ac.uk/training/index.php?action=results&q=&date_start=&date_end=&time=future&ncrm=on&ncrmPartner=on&region=&level=)
 
 
 NCRM offers lots of courses on methods you could use inn your rsearch. **There are both qualitative and quantitive methods.** This are an amazing events that are delivered by academics from Universities across the UK.
 
-![]('./images/fig5.png')
+![](./images/fig5.png)
 
 
 > Let us know if you know of other resource we could add to the list.
