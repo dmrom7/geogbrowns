@@ -3,10 +3,6 @@ title: Browns Weekend Away, trip to the Cornwall and the Land's End
 date: 2022-06-05
 authors:
 - Lenka
-- Isolde
-- Claude
-- Sonia
-- George
 
 summary: 'Our traditional weekend away is back! This year we traveled to Cornwall and enjoyed two days of camping, beaches, walkes, cornish pasties and good company.'
 
