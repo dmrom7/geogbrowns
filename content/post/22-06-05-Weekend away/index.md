@@ -34,8 +34,8 @@ There was no doubt that our first destination would be the beach. We walked thro
 After the beach we headed to the nearest pub for dinner and pint of cider, energized by the warm weather, cold water and the 'raw' nature. We finished the day playing cards, chatting along around the campfire and sipping whiskey. We could not have asked for more.
 
 ![png](./images/image9.jpeg)
-![png](./images/image2.jpg)
-![png](./images/image3.jpeg)
+![png](./images/image2.jpeg)
+![png](./images/image3.jpg)
 ![png](./images/image4.jpeg)
 
 ## 2nd Day
