@@ -33,7 +33,8 @@ When we turned up in the campsite just before lunch, the tents were already up t
 There was no doubt that our first destination would be the beach. We walked through the coastline shrubs, walked down the steep path and surpassed the last 200 meters of cliffs on all four. The beach consisted of combination of sand and broken seashells, and had a gentle slope so that each wave could travel quite far along and create little pools of water favoured by all the dogs, trying to cool down in such a hot day. The water was so clear and blue, it almost did not look real, and several of us felt like we are just dreaming. We spent the rest of the afternoon sunbathing, reading, talking, throwing around frisbee, walking along the beach and the brave of us also swimming. The water was cold as ice, so stepping in, our feet felt like falling off, but after brief period of adaptation our bodies adjusted and the water became refreshing. 
 After the beach we headed to the nearest pub for dinner and pint of cider, energized by the warm weather, cold water and the 'raw' nature. We finished the day playing cards, chatting along around the campfire and sipping whiskey. We could not have asked for more.
 
-![png](./images/image2.jpeg)
+![png](./images/image9.jpeg)
+![png](./images/image2.jpg)
 ![png](./images/image3.jpeg)
 ![png](./images/image4.jpeg)
 
@@ -47,7 +48,7 @@ We managed to get to the Lands End in a right time for lunch, Cornish pasties we
 
 ![png](./images/image1.jpeg)
 ![png](./images/image5.jpeg)
-![png](./images/gif1.jpeg)
+![png](./images/gif1.gif)
 
 Tired but relaxed, and sun burnt, some more then others, we finished off the day by dinner, body stretches, few mafia party games, sunset watching and evening coastline scrawling.
 
