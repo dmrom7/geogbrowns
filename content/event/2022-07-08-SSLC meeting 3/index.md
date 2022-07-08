@@ -8,7 +8,7 @@ date: "2022-07-20T14:00:00Z"
 date_end: "2022-07-20T16:00:00Z"
 all_day: false
 
-publishDate: "2022-072-06T00:00:00Z"
+publishDate: "2022-07-06T00:00:00Z"
 
 authors:
 - lenka
