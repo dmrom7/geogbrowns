@@ -4,11 +4,11 @@ event: 3rd SSL meeting of 2021/22 - In-person in Browns common room
 summary: 
 
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-07-20T46:00:00Z"
+date: "2022-07-20T14:00:00Z"
 date_end: "2022-07-13T16:00:00Z"
 all_day: false
 
-publishDate: "2022-02-20T00:00:00Z"
+publishDate: "2022-072-06T00:00:00Z"
 
 authors:
 - lenka
