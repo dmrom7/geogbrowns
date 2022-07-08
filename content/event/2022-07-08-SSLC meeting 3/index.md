@@ -45,6 +45,7 @@ links:
 **The Staff Student Liaison Committee (SSLC) is a mechanism by which students and staff can communicate and obtain feedback about all aspects of the PGR experience. Join us for this year's first SSL  meeting to find out the progress on improving your student experience.**
 
 **When:** 20th March 2-4p.m. 
+
 **Where** In-person, Browns common room
 
 The SSLC meeting is an important part of the PGR (post-graduate research) calendar. Chaired by one of our PGR Reps, it hosts a discussion between the PGR staff and PGR students, and aims to;
