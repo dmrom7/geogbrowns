@@ -60,7 +60,7 @@ projects:
 Join us after work for the last social of this academic year.
 
 * There is going to be free pizza and variety of drinks.  🍕🥤 🍕🥤 🍕 🥤 🍕
-* You can enjoy some board games, and chilled music.
+* You can enjoy some board games, chilled music and good company!
 
 ## When
 
