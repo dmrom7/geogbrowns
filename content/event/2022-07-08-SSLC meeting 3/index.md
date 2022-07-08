@@ -5,7 +5,7 @@ summary:
 
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-07-20T14:00:00Z"
-date_end: "2022-07-13T16:00:00Z"
+date_end: "2022-07-20T16:00:00Z"
 all_day: false
 
 publishDate: "2022-072-06T00:00:00Z"
