@@ -29,7 +29,7 @@ image:
 
 links:
  - name: Agenda for SSLC meeting
-   url: ''
+   url: 'https://uob.sharepoint.com/:w:/s/geog-sci-files/Eb7GVUH-1mBCtoHBkPX9X2QBO0E4nhqNLXBVm0tgZdoSHg?e=curez1'
 
  - name: Recordings from past SSLC meeting
    url: 'https://uob.sharepoint.com/:w:/r/sites/geog-sci-files/_layouts/15/Doc.aspx?sourcedoc=%7BAAC8337C-BECE-4BC0-A8A8-6EBC7BB199CC%7D&file=PGR%20SSLC_16.03.2022_minutes.docx&action=default&mobileredirect=true'
