@@ -1,6 +1,6 @@
 ---
-title: Pizza night 
-event: Pizza night - Thursday 14th July
+title: Department-wide drinks reception
+event: Department-wide drinks reception
 event_url: 
 
 location: Hepple Theater
