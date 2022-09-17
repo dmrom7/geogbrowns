@@ -45,7 +45,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PGR Reps
+
 ---
 
 My dissertation looks at the use of Spatial Interaction Models and their Spatial Structure. I love coding in Python and R, and in a spare time, I make my own clothes.

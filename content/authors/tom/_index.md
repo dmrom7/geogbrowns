@@ -1,9 +1,8 @@
 ---
 # Display name
-title: Giada Casarin 
-
+title: Tom Cantellow
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Human Geography PhD student
@@ -14,7 +13,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am Postgrad EDI rep and in my research I explore long-term impact of urban renewal policies on neighbourhood reputations using qualitative methods. I come from Italy and I love doing yoga, listening to podcasts and just spending time into nature. 
+bio: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -23,11 +22,10 @@ bio: I am Postgrad EDI rep and in my research I explore long-term impact of urba
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'giada.casarin@bristol.ac.uk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/CasarinGiada
-  
+  link: 't.cantellow@bristol.ac.uk'
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/ClaudeDRT
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -43,7 +41,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-
+- PGR Reps
 ---
 
-I am Postgrad EDI rep and in my research I explore long-term impact of urban renewal policies on neighbourhood reputations using qualitative methods. I come from Italy and I love doing yoga, listening to podcasts and just spending time into nature. 

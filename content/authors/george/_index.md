@@ -43,7 +43,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PGR Reps
+
 ---
 
  I am interested in human-environment relationships and will be working on the political ecology of conservation in Senegal. 
