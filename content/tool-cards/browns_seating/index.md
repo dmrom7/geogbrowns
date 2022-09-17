@@ -1,5 +1,5 @@
 ---
-title:  Browns Check-in & hot-desking
+title:  Browns Seating Plan & Hot-Desking 
 summary: 
 tags:
 - Browns Documents
