@@ -66,7 +66,7 @@ Tuesday 20th September, 5pm to 9pm.
 
 ## Where
 
-Hepple Theater in main department.
+Hepple Theater in main department. Its an orange building.
 
 
 
