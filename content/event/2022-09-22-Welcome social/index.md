@@ -55,6 +55,8 @@ slides:
 projects:
 ---
 
-Selection of alcoholic and non-alcoholic drinks provided.
+**Join us for a chat and drink after work (after 5pm) on Thursday 29th September to catch up and welcome everyone in the new academic year.**
+
+**Selection of alcoholic and non-alcoholic drinks provided.**
 
 
