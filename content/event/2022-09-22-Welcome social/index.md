@@ -1,9 +1,9 @@
 ---
-title: Department-wide drinks reception
-event: Department-wide drinks reception
+title: Welcome social
+event: Welcome social - drinks in Browns
 event_url: 
 
-location: Hepple Theater
+location: Browns common room
 address:
   street: 
   city: 
@@ -12,13 +12,13 @@ address:
   country: United Kingdom
 
 
-summary: 'Department-wide drinks reception to welcome new students and greet the new academic year'
+summary: 'Join us for a chat and drink after work (after 5pm) on Thursday 29th September to catch up and welcome everyone in the new academic year '
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-09-20T17:00:00Z"
-date_end: "2022-09-20T21:00:00Z"
+date: "2022-09-29T17:00:00Z"
+date_end: "2022-09-29T19:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -55,18 +55,6 @@ slides:
 projects:
 ---
 
-## What
-
-Join us after work for the department-wide drinks reception during welcome week. This is one of two events during a year very well attended by both staff and students and offers an opportunity to network with new PGR students.
-There is going to be plenty of free drinks and, both alcoholic and non-alcoholic options and some nibbles.
-
-## When
-
-Tuesday 20th September, 5pm to 9pm.
-
-## Where
-
-Hepple Theater in main department. 
-
+Selection of alcoholic and non-alcoholic drinks provided.
 
 
