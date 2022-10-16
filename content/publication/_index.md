@@ -1,7 +1,9 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
+title: Recent Publications
+view: 2
 
-# Homepage is headless, other widget pages are not.
-headless: true
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image:
 ---
