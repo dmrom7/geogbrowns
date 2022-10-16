@@ -16,12 +16,9 @@ main:
   - name: People
     url: people
     weight: 70
+  - name: Recent Publications
+    url: publication
+    weight: 50
   - name: Discussion board
     url: discussion
     weight: 80
-
-[[main]]
-  name = "Recent Publication"  # Title of the link.
-  url = "publication/"  # Widget Page folder name.
-  weight = 50 
-
