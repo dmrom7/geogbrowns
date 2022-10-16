@@ -6,6 +6,6 @@ header:
   caption: ""
   image: ""
 
-link: https://research-information.bris.ac.uk/en/organisations/school-of-geographical-sciences/publications/
+url: https://research-information.bris.ac.uk/en/organisations/school-of-geographical-sciences/publications/
 
 ---
