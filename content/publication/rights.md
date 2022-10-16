@@ -21,5 +21,5 @@ cta:
   icon_pack: fas
   icon: fa-thin fa-books
 
-  ---
+---
 
