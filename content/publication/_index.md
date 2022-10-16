@@ -1,10 +1,7 @@
 ---
-title: Publications
+# Files in this folder represent a Widget Page (homepage)
+type: widget_page
 
-header:
-  caption: ""
-  image: ""
-
-url: https://research-information.bris.ac.uk/en/organisations/school-of-geographical-sciences/publications/
-
+# Homepage is headless, other widget pages are not.
+headless: true
 ---
