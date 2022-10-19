@@ -13,7 +13,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Broadly defined as an oceanographer but currently found at Desk 1, my research covers the interactions of marine phsyics and biogeochemistry. I do have a general interest in Earth-science computing methods and observational analysis.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
