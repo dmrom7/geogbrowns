@@ -43,7 +43,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Equality, Diversity and Inclusion Rep
+
 ---
 
 I'm a PhD student focusing on intersectionality, gender, and migration studies, based at the University of Bristol, UK.
