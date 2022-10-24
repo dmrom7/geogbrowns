@@ -7,7 +7,6 @@
 
 theme_day: custom_light
 theme_night: custom_dark
-day_night: true
 font: native
 font_size: L
 
