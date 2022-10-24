@@ -5,7 +5,7 @@ name = "custom"
 light = true
 
 # Primary
-primary = "#15313D"
+primary_light = "#15313D"
 background = "#F5F1EB"
 
 # Menu
@@ -26,7 +26,7 @@ link_hover = "#A74B0D"
   link = "#E0A100"
   link_hover = "#A74B0D"
 
-  primary = "#15313D"
+  primary_dark = "#15313D"
   menu_primary = "#15313D" 
   
 
