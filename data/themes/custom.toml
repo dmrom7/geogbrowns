@@ -24,6 +24,7 @@ link_hover = "#c65e19"
 [dark]
   link = "#E0A100"
   link_hover = "#c65e19"
+  background = "#1D170B"
   primary = "1A1C23"
   menu_primary = "1A1C23"
   menu_text = "#F5F1EB" 
