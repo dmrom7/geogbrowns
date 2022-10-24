@@ -22,5 +22,5 @@ home_section_even = "rgb(247, 247, 247)" # whiter
 link = "#E0A100" # yellow
 link_hover = "#A74B0D" # orange
 
-
+[dark]
   
