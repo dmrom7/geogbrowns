@@ -22,7 +22,7 @@ link = "#E0A100" # yellow
 link_hover = "#A74B0D" # orange
 
 [dark]
-	primary = #517A8C
+	primary = "#517A8C"
 	# Home sections - this is a background
 	home_section_odd = "#1C2A35" # dark dark blue
 	home_section_even = "#19252F" # even darker blue
