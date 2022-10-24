@@ -24,7 +24,11 @@ link_hover = "#c65e19"
 [dark]
   link = "#E0A100"
   link_hover = "#c65e19"
-  menu_primary = "1A1C23" 
+  primary = "1A1C23"
+  menu_primary = "1A1C23"
+  menu_text = "#F5F1EB" 
+  menu_text_active = "#E0A100" # Material Complemantary 500
+  menu_title = "#F5F1EB"
 
 
   
