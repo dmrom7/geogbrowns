@@ -26,12 +26,12 @@ link_hover = "#A74B0D"
   link = "#E0A100"
   link_hover = "#A74B0D"
 
-  primary = "#517A8C"
+  primary = "#15313D"
   menu_primary = "#15313D" 
   
 
-  text = "#F5F1EB"
-  menu_text = "#F5F1EB"
+  text = "#F5F1EB" 
+  menu_text = "#517A8C"
   menu_text_active = "#E0A100" 
   menu_title = "#F5F1EB"
 
