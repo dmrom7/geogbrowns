@@ -26,15 +26,6 @@ link_hover = "#A74B0D" # orange
   link = "#E0A100" # yellow
   link_hover = "#A74B0D" # orange
 
-  primary = "#15313D" # dark blue
-  menu_primary = "#15313D" # dark blue
-  
-
-  text = "#F5F1EB" # white
-  menu_text = "#F5F1EB" # white
-  menu_text_active = "#A74B0D" # orange
-  menu_title = "#F5F1EB" # white
-
   home_section_odd = "#1C2A35" # dark dark blue
   home_section_even = "#19252F" # even darker blue
 
