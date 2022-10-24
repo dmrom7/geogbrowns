@@ -15,7 +15,7 @@ menu_text_active = "#E0A100" # Material Complemantary 500
 menu_title = "#F5F1EB"
 
 # Home sections
-home_section_odd = "rgb(247, 247, 247)"
+home_section_odd = "#F5F1EB"
 home_section_even = "rgb(247, 247, 247)"
 
 # links
@@ -27,9 +27,10 @@ link_hover = "#A74B0D"
   link_hover = "#A74B0D"
   menu_primary = "#15313D" 
   primary = "#15313D"
-  menu_text_active = "#E0A100" # Material Complemantary 500
+  menu_text = "#F5F1EB"
+  menu_text_active = "#E0A100" 
   menu_title = "#F5F1EB"
   home_section_odd = "#1C2A35"
-  home_section_even = "#1C2A35"
+  home_section_even = "#19252F"
 
   
