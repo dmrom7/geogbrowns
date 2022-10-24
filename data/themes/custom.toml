@@ -5,10 +5,10 @@ name = "custom"
 light = true
 
 # Primary
-primary = "#342914"
+primary = "#15313D"
 
 # Menu
-menu_primary = "#342914" # Material 500
+menu_primary = "#15313D" # Material 500
 menu_text = "#F5F1EB"
 menu_text_active = "#E0A100" # Material Complemantary 500
 menu_title = "#F5F1EB"
@@ -19,17 +19,11 @@ home_section_even = "rgb(247, 247, 247)"
 
 # links
 link = "#E0A100"
-link_hover = "#c65e19"
+link_hover = "#A74B0D"
 
 [dark]
   link = "#E0A100"
-  link_hover = "#c65e19"
-  background = "#1D170B"
-  primary = "1A1C23"
-  menu_primary = "1A1C23"
-  menu_text = "#F5F1EB" 
-  menu_text_active = "#E0A100" # Material Complemantary 500
-  menu_title = "#F5F1EB"
-
+  link_hover = "#A74B0D"
+  
 
   
