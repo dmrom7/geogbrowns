@@ -26,8 +26,9 @@ link_hover = "#A74B0D"
   link = "#E0A100"
   link_hover = "#A74B0D"
 
-  menu_primary = "#15313D" 
   primary = "#517A8C"
+  menu_primary = "#15313D" 
+  
 
   text = "#F5F1EB"
   menu_text = "#F5F1EB"
