@@ -11,7 +11,7 @@ background = "#F5F1EB"
 # Menu
 menu_primary = "#15313D" 
 menu_text = "#F5F1EB"
-menu_text_active = "#E0A100" 
+menu_text_active = #A74B0D" 
 menu_title = "#F5F1EB"
 
 # Home sections - this is a background
@@ -27,12 +27,13 @@ link_hover = "#A74B0D"
   link_hover = "#A74B0D"
 
   primary = "#15313D"
-  menu_primary = "#15313D" 
+  menu_primary = "#517A8C" 
   
 
   text = "#F5F1EB" 
-  menu_text = "#517A8C"
-  menu_text_active = "#E0A100" 
+  menu_text = "#F5F1EB" 
+  #"#517A8C"
+  menu_text_active = "#A74B0D" 
   menu_title = "#F5F1EB"
 
   home_section_odd = "#1C2A35"
