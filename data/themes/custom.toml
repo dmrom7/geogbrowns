@@ -17,11 +17,14 @@ menu_title = "#F5F1EB"
 home_section_odd = "rgb(247, 247, 247)"
 home_section_even = "rgb(247, 247, 247)"
 
+# links
+link = "#E0A100"
+link_hover = "#c65e19"
+
 [dark]
   link = "#E0A100"
   link_hover = "#c65e19"
   menu_primary = "1A1C23" 
 
-[light]
-  link = "#E0A100"
-  link_hover = "#c65e19"
+
+  
