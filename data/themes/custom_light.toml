@@ -1,5 +1,5 @@
 # Theme metadata
-name = "custom"
+name = "custom_light"
 
 # Is theme light or dark?
 light = true
@@ -22,11 +22,5 @@ home_section_even = "rgb(247, 247, 247)" # whiter
 link = "#E0A100" # yellow
 link_hover = "#A74B0D" # orange
 
-[dark]
-  link = "#E0A100" # yellow
-  link_hover = "#A74B0D" # orange
-
-  home_section_odd = "#1C2A35" # dark dark blue
-  home_section_even = "#19252F" # even darker blue
 
   
