@@ -4,7 +4,7 @@ name = "custom"
 light = true
 
 # Primary
-primary = "#15313D" # dark blue
+primary = "#A74B0D" # dark blue
 background = "#F5F1EB" # white
 
 # Menu
