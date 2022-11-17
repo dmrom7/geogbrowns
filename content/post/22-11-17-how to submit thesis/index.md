@@ -27,7 +27,7 @@ An example with fictional student 'John Smith' with student number 'T 195765' (t
 > PGR_submission_Smith_John_T195765.pdf
 
 
-## Submit
+## 2. Submit
 
 * Go to [BlackBoard](https://www.ole.bris.ac.uk/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1) home page and find the box called **My Organizations**
 * Enter the one that says **Geographical Sciences Human Geog Postgraduate E-submission**
@@ -44,7 +44,7 @@ An example with fictional student 'John Smith' with student number 'T 195765' (t
 -	This should reset those PDF files back to Acrobat.
 
 
-## Email about your submission
+## 3. Email about your submission
 
 * Email the **exams office**(pgr-exams@bristol.ac.uk), Geog Pgadmin (geog-pgadmis@bristol.ac.uk), and your **supervisors** with the document attached and clarify that you have also submitted the document to Turnitin. 
 * If file is too big, you will need to create a [Facility for the Upload of Large Files (fluff) link](https://uob.sharepoint.com/sites/itservices/SitePages/fluff.aspx). 
