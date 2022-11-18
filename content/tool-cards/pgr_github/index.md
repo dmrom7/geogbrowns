@@ -2,7 +2,7 @@
 title: GitHub page for School of Geographical Sciences collaborations
 summary: includes thesis LaTex template
 tags:
-- Research Groups
+- PGR Documents
 date: 
 
 authors:
