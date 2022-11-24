@@ -5,14 +5,14 @@ event: Department Christmas Party
 
 location: Origin Workspace (40 Berkeley Square)
 
-date: "2022-12-2T17:00:00Z"
+date: "2022-12-02T17:00:00Z"
 all_day: false
 
 authors: [lenka]
 
 featured: false
 
-publishDate: "2021-11-25T00:00:00Z"
+publishDate: "2022-11-23T00:00:00Z"
 
 abstract: "**The date is set: the Department Christmas party will happen on Friday the 2nd of December!** This is a Christmas party for all PGRs in Geographical Sciences."
 ---
