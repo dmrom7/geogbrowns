@@ -11,13 +11,13 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: We plan to take out the Christmas decorations out of the closet and decorate Browns common room. Do some origami decorations and network. Drinks provided. Wednesday 1st December - 5pm! Feel free to join us and help out! 
+summary: We plan to take out the Christmas decorations out of the closet and decorate Browns common room. Do some origami decorations and network. Drinks provided. Wednesday 29th November - 5pm! Feel free to join us and help out! 
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-12-01T17:00:00Z"
-date_end: "2022-12-01T17:30:00Z"
+date: "2022-11-29T17:00:00Z"
+date_end: "2022-11-29T17:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
