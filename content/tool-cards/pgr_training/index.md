@@ -45,3 +45,5 @@ slides:
 4. [Bristol Doctoral Colledge events](https://uob.sharepoint.com/sites/bristol-doctoral-college/_layouts/15/Events.aspx?ListGuid=ca03ab02-99e1-4ce0-a45f-3eb8c47b498a&AudienceTarget=false) - here you can find scheduled writting sessions, supervisor advice, well-being sessions, getting started with publishing and even community yoga sessions
 
 5. [National Centre for Research Methods - Research methods training courses and events](https://www.ncrm.ac.uk/training/index.php?action=results&q=&date_start=&date_end=&time=future&ncrm=on&ncrmPartner=on&region=&level=) - This is a searchable database of training events including trainning on various data research, ethics, various computational and statistical methods, qualitatiove or quantitative methods and much more.
+
+6. [Social Research Association](https://the-sra.org.uk/) - SRA promotes excellence in social research. It offers training and shourt courses on wide range of reserach methods (mostly qualitative), guidiance on research ethics, webinars, conferences and other.
