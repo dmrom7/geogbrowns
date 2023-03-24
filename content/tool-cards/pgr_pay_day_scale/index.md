@@ -29,15 +29,19 @@ url_video: ""
 slides: 
 ---
 
+
+
+
+
 ## What are the HPT Pay Scales?
 
-### (HERE)[https://www.bristol.ac.uk/hr/tsr/tsr-payrates.html] you can find the pay scale for the HPT roles. This is a universal scale across the ehole university.
+**(HERE)[https://www.bristol.ac.uk/hr/tsr/tsr-payrates.html] you can find the pay scale for the HPT roles. This is a universal scale across the ehole university.**
 
 
 ## When is a pay day and payroll deadline?
 
 
-### (HERE)[https://uob.sharepoint.com/sites/finance-services/SitePages/Payroll-deadlines.aspx] you can find the table containing the payroll deadline and the pay day date for each month in the year.
+**(HERE)[https://uob.sharepoint.com/sites/finance-services/SitePages/Payroll-deadlines.aspx] you can find the table containing the payroll deadline and the pay day date for each month in the year.**
 
 You should mainlu focus on 
 * Column 2 - Departmental* HPT approval ** - it tells you by which day in a month you need to submit your HPT claims
