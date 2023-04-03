@@ -4,17 +4,17 @@ name = "custom"
 light = true
 
 # Primary
-primary = "#A74B0D" # dark blue
-background = "#F5F1EB" # white
+primary = "#70825D" # main green
+background = "#FCFEFA" # white
 
 # Menu
-menu_primary = "#15313D" # dark blue
-menu_text = "#F5F1EB" # white
+menu_primary = "#343B35" # dark green
+menu_text = "#FCFEFA" # white
 menu_text_active = "#70825D" # main green
 menu_title = "#F5F1EB" # white
 
 # Home sections - this is a background
-home_section_odd = "#F5F1EB" # white
+home_section_odd = "#FCFEFA" # white
 home_section_even = "rgb(247, 247, 247)" # whiter
 
 # links
@@ -24,8 +24,8 @@ link_hover = "#70825D" # main green
 [dark]
 	primary = "#517A8C"
 	# Home sections - this is a background
-	home_section_odd = "#1C2A35" # dark dark blue
-	home_section_even = "#19252F" # even darker blue
+	home_section_odd = "#343B35" # dark dark green
+	home_section_even = "#1F2222" # even darker green
 
 	# links
 	link = "#9AB281" # light green
