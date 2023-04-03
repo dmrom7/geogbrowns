@@ -10,7 +10,7 @@ background = "#F5F1EB" # white
 # Menu
 menu_primary = "#15313D" # dark blue
 menu_text = "#F5F1EB" # white
-menu_text_active = "#A74B0D" # orange
+menu_text_active = "#70825D" # main green
 menu_title = "#F5F1EB" # white
 
 # Home sections - this is a background
@@ -18,8 +18,8 @@ home_section_odd = "#F5F1EB" # white
 home_section_even = "rgb(247, 247, 247)" # whiter
 
 # links
-link = "#E0A100" # yellow
-link_hover = "#A74B0D" # orange
+link = "#9AB281" # light green
+link_hover = "#70825D" # main green
 
 [dark]
 	primary = "#517A8C"
@@ -28,7 +28,7 @@ link_hover = "#A74B0D" # orange
 	home_section_even = "#19252F" # even darker blue
 
 	# links
-	link = "#E0A100" # yellow
-	link_hover = "#A74B0D" # orange
+	link = "#9AB281" # light green
+	link_hover = "#70825D" # main green
 
   
