@@ -18,7 +18,7 @@ home_section_odd = "#FCFEFA" # white
 home_section_even = "rgb(247, 247, 247)" # whiter
 
 # links
-link = "#9AB281" # light green
+link = "#A3D56E" # pistachio
 link_hover = "#70825D" # main green
 
 [dark]
@@ -28,7 +28,7 @@ link_hover = "#70825D" # main green
 	home_section_even = "#1F2222" # even darker green
 
 	# links
-	link = "#9AB281" # light green
+	link = "#A3D56E" # pistachio
 	link_hover = "#70825D" # main green
 
   
