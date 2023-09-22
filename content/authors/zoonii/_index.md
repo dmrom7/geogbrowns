@@ -41,7 +41,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
- - PGR Reps
+
 ---
 
 Zoonii is passionate about sports, art, and science. She’s excited to reignite the research culture of Bristol Geography, whilst ensuring no one is left out or left behind. Don’t hesitate to get in touch with any EDI questions or ideas.
