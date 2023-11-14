@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Madeleine Lewis (sucks)
+title: Madeleine Lewis
 
 # Is this the primary user of the site?
 superuser: true
