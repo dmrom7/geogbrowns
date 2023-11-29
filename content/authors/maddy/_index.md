@@ -1,6 +1,6 @@
 ---
 # Display name
-title: A plant person #Madeleine Lewis
+title: Madeleine Lewis
 
 # Is this the primary user of the site?
 superuser: true
