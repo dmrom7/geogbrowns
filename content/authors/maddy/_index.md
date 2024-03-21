@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Maddy is a polar microbiologist researching the functionality and micro-spatial distribution of microbial communities found in snow and ice matrices. When not hiking up a mountain you can find her with her nose in a book or staring intently at trees and dirt. 
+bio: Maddy is a polar microbiologist researching the functionality and micro-spatial distribution of microbial communities found in snow and ice matrices. When not hiking up a mountain, you can find her with her nose in a book or staring intently at trees and dirt. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
